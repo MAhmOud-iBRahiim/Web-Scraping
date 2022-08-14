@@ -1,0 +1,294 @@
+,Hotel_Name,Rate,Governorate
+0,Stella Di Mare Grand Hotel,4.5,Ain_Sukhna
+1,Stella Di Mare Sea Club Hotel,4.5,Ain_Sukhna
+2,Tolip Resort El Galala Majestic,4.5,Ain_Sukhna
+3,Cancun Sokhna Resort,4.5,Ain_Sukhna
+4,Teda Swiss Inn Plaza Hotel Ain Soukhna,4,Ain_Sukhna
+5,Retal View El Sokhna,4.5,Ain_Sukhna
+6,Grand Ocean Sokhna Hotel and Resort,4.5,Ain_Sukhna
+7,Tolip Resort El Galala Hills,4,Ain_Sukhna
+8,Movenpick Resort El Sokhna,4,Ain_Sukhna
+9,Porto Sokhna Beach Resort,3.5,Ain_Sukhna
+10,Stella Di Mare Golf Hotel,4.5,Ain_Sukhna
+11,Coral Sea Beach,3.5,Ain_Sukhna
+12,Romance Hotel,3.5,Ain_Sukhna
+13,Tanoak Hotel,4.5,Ain_Sukhna
+14,Fanar de Luna,3.5,Ain_Sukhna
+15,Hilton Alexandria King's Ranch,4.5,Alexandria
+16,Hilton Alexandria Corniche,4.5,Alexandria
+17,"Radisson Blu Hotel, Alexandria",4.5,Alexandria
+18,TOLIP Hotel Alexandria,3.5,Alexandria
+19,Cherry Maryski Hotel,3.5,Alexandria
+20,Steigenberger Cecil Hotel,4,Alexandria
+21,Hilton Alexandria Green Plaza,4.5,Alexandria
+22,SUNRISE Alex Avenue Hotel,5,Alexandria
+23,Romance Alexandria Hotel,4.5,Alexandria
+24,Paradise Inn Le Metropole Hotel,3.5,Alexandria
+25,Helnan Palestine Hotel,4,Alexandria
+26,Paradise Inn Windsor Palace Hotel,3.5,Alexandria
+27,Plaza Hotel,3.5,Alexandria
+28,Sheraton Montazah Hotel,3.5,Alexandria
+29,Green Plaza Inn Hotel,4,Alexandria
+30,Aifu Resort,3.5,Alexandria
+31,Alkadi Hotel,3,Alexandria
+32,Jewel San Stefano Hotel,3,Alexandria
+33,San Giovanni Hotel,3.5,Alexandria
+34,The Grand Plaza Hotel Smouha,4,Alexandria
+35,Al Maghraby Hotel,4,Alexandria
+36,Smoha Zahran Haus,5,Alexandria
+37,Alexander The Great Hotel,3.5,Alexandria
+38,Tolip Alexandria Villas And Apartments,5,Alexandria
+39,Golden Jewel Hotel,4.5,Alexandria
+40,Africana Hotel and spa,3.5,Alexandria
+41,Alexandria Mediterranean Suites,4,Alexandria
+42,Sea Star Hotel,2,Alexandria
+43,Semiramis Hotel,2.5,Alexandria
+44,Four Seasons Hotel Alexandria,4.5,Alexandria
+45,Movenpick Resort Aswan,4.5,Aswan
+46,Sofitel Legend Old Cataract Aswan,4.5,Aswan
+47,Philae Hotel,4.5,Aswan
+48,Tolip Aswan Hotel,3.5,Aswan
+49,Basma Hotel,3.5,Aswan
+50,Pyramisa Island Aswan,4,Aswan
+51,Hapi Hotel,3.5,Aswan
+52,Basmatic Nubian Guest House,5,Aswan
+53,Nuba Dool Guest House,5,Aswan
+54,Nubian Holiday House Aswan,4.5,Aswan
+55,Kato Dool Nubian House,4.5,Aswan
+56,Citymax Hotel Aswan,3.5,Aswan
+57,David Hostel,4,Aswan
+58,Wanas Kato Guest House,5,Aswan
+59,Basma Executive Club,5,Aswan
+60,Anakato,4.5,Aswan
+61,Pyramisa Isis Corniche Hotel,3.5,Aswan
+62,Nubian Lotus,5,Aswan
+63,Nuba Tod Guest House,5,Aswan
+64,Marhaba Hotel,3.5,Aswan
+65,Ounaty Ka,5,Aswan
+66,Villa Misk,5,Aswan
+67,Hamo House,4.5,Aswan
+68,Aragheed Nubian Guest House,5,Aswan
+69,Opal Privat Nubian Hotel,5,Aswan
+70,Cleopatra Hotel,3.5,Aswan
+71,El-amin Guest House,5,Aswan
+72,Kempinski Nile Hotel Garden City Cairo,4.5,Cairo
+73,Fairmont Nile City,4.5,Cairo
+74,Steigenberger Hotel El Tahrir,4.5,Cairo
+75,Le Meridien Cairo Airport,4.5,Cairo
+76,Sofitel Cairo Nile El Gezirah,4.5,Cairo
+77,Le Passage Cairo Hotel & Casino,4.5,Cairo
+78,"Sonesta Hotel, Tower & Casino Cairo",4,Cairo
+79,Novotel Cairo Airport,4,Cairo
+80,Al Masa Hotel,4.5,Cairo
+81,Dahab Hostel,4.5,Cairo
+82,Ramses Hilton,4,Cairo
+83,Dusit Thani LakeView Cairo,4.5,Cairo
+84,The St. Regis Cairo,5,Cairo
+85,"Radisson Blu Hotel, Cairo Heliopolis",3.5,Cairo
+86,Concorde El Salam Hotel Cairo by Royal Tulip,4,Cairo
+87,"The St. Regis Almasa Hotel, Cairo",5,Cairo
+88,Cairo Paradise Hotel,4.5,Cairo
+89,Hilton Cairo Zamalek Residences,4,Cairo
+90,Hilton Cairo Heliopolis,4,Cairo
+91,Osiris Hotel,4.5,Cairo
+92,"The Nile Ritz-Carlton, Cairo",4.5,Cairo
+93,Paradise Boutique Hotel,4,Cairo
+94,New Grand Royal Hotel Cairo,4,Cairo
+95,Villa Belle Epoque,4,Cairo
+96,Valencia Hotel,4,Cairo
+97,Downtown inn,5,Cairo
+98,Golden Tulip Flamenco Hotel Flamenco Cairo,3.5,Cairo
+99,Tolip El Galaa Hotel Cairo,3,Cairo
+100,TOLIP Family Park Hotel,3,Cairo
+101,Bella Casa Hostel,5,Cairo
+102,Jaz Dahabeya,4.5,Dahab
+103,Dahab Paradise,5,Dahab
+104,Ecotel Dahab Bay View Resort,4,Dahab
+105,Happy Life Village,4.5,Dahab
+106,Sheikh Ali Dahab Resort,5,Dahab
+107,Tropitel Dahab Oasis,4.5,Dahab
+108,Golden Europe Hotel,4.5,Dahab
+109,Acacia Dahab Hotel,4.5,Dahab
+110,The Bedouin Moon Hotel,4.5,Dahab
+111,Swiss Inn Resort,4.5,Dahab
+112,Le Meridien Dahab Resort,4.5,Dahab
+113,Tirana Dahab Resort,4,Dahab
+114,Red Sea Relax Resort,4.5,Dahab
+115,Mirage Village Hotel,4.5,Dahab
+116,Neptune Hotel,4.5,Dahab
+117,Daniela diving resort Dahab,4.5,Dahab
+118,Alf Leila Boutique Hotel,4.5,Dahab
+119,Blue Beach Club,4.5,Dahab
+120,Dahab Plaza Hotel,4.5,Dahab
+121,INMO Divers Home,4.5,Dahab
+122,Jowhara Hotel,4.5,Dahab
+123,Coral Coast Hotel,4,Dahab
+124,Hotel Planet Oasis,4,Dahab
+125,Oricana Hotel,4.5,Dahab
+126,Star Of Dahab Hotel,4.5,Dahab
+127,El Primo Hotel Dahab,4.5,Dahab
+128,Ali Baba Hotel,4,Dahab
+129,4S Hotel,4.5,Dahab
+130,Nesima Resort and Dive Center,4,Dahab
+131,Monica Hotel,5,Dahab
+132,Best View Pyramids Hotel,4.5,Giza
+133,Great Pyramid Inn,4.5,Giza
+134,Pyramids View Inn,4.5,Giza
+135,"Marriott Mena House, Cairo",4.5,Giza
+136,Safir Hotel Cairo,4.5,Giza
+137,Four Seasons Hotel Cairo at the First Residence,4.5,Giza
+138,Steigenberger Pyramids Cairo,4.5,Giza
+139,Hyatt Regency Cairo West,5,Giza
+140,Hayat Pyramids View Hotel,4,Giza
+141,Pyramids Planet Hotel,5,Giza
+142,Giza Pyramids View Inn,5,Giza
+143,Panorama Pyramids Inn,4.5,Giza
+144,Sheraton Cairo Hotel & Casino,4,Giza
+145,Grand Pyramids Hotel,3.5,Giza
+146,Mena Inn Pyramids,4,Giza
+147,Horus Guest House Pyramids View,4.5,Giza
+148,Desert Moon,4.5,Giza
+149,Helnan Dreamland Hotel,4,Giza
+150,Indiana Hotel Cairo,3,Giza
+151,Ramosa Guest House,4.5,Giza
+152,Swiss Inn Nile Hotel,3.5,Giza
+153,Pyramisa Suites Hotel Cairo,3.5,Giza
+154,Magic Golden Pyramids Inn,5,Giza
+155,Sunshine Pyramids View,4,Giza
+156,Horizon Shahrazad Hotel,3,Giza
+157,Aracan Pyramids Hotel,3.5,Giza
+158,Sahara Pyramids Inn,4,Giza
+159,Pyramids Park Resort,3,Giza
+160,Tut Pyramids View Hotel,5,Giza
+161,Gawharet Al Ahram Hotel,3,Giza
+162,Serenity Fun City,4.5,Hurghada
+163,Jaz Casa Del Mar Beach,5,Hurghada
+164,Jaz Casa Del Mar Resort,5,Hurghada
+165,Premier Le Reve Hotel & Spa,5,Hurghada
+166,Steigenberger Pure Lifestyle Hotel,5,Hurghada
+167,Sheraton Miramar Resort El Gouna,4.5,Hurghada
+168,Meraki Resort,4.5,Hurghada
+169,Baron Palace Sahl Hasheesh,5,Hurghada
+170,Serenity Makadi Beach,4.5,Hurghada
+171,Jungle Aqua Park,4.5,Hurghada
+172,Sunrise Royal Makadi Resort,4.5,Hurghada
+173,Hilton Hurghada Plaza,4.5,Hurghada
+174,Steigenberger Aqua Magic,4.5,Hurghada
+175,Sunrise Garden Beach Resort,4.5,Hurghada
+176,Prima Life Makadi Hotel,4.5,Hurghada
+177,Hurghada Marriott Beach Resort,4.5,Hurghada
+178,SUNRISE Aqua Joy Resort,4.5,Hurghada
+179,Arabia Azur Resort,4.5,Hurghada
+180,Bel Air Azur Resort,4.5,Hurghada
+181,The Three Corners Rihana Resort,4.5,Hurghada
+182,Royal Star Beach Resort,4.5,Hurghada
+183,The Oberoi Beach Resort Sahl Hasheesh,5,Hurghada
+184,Minamark Beach Resort,4,Hurghada
+185,Jasmine Palace Resort & Spa,4,Hurghada
+186,"Fort Arabesque Resort, Spa & Villas",4,Hurghada
+187,Hawaii Le Jardin Aqua Resort,4,Hurghada
+188,Hotelux Marina Beach Resort,4,Hurghada
+189,ZYA Regina Resort and Aqua Park Hurghada,4,Hurghada
+190,Arabella Azur Resort,4.5,Hurghada
+191,Jaz Aquaviva,4.5,Hurghada
+192,Steigenberger Nile Palace Luxor Hotel,4.5,Luxor
+193,Sofitel Winter Palace Luxor,4.5,Luxor
+194,Hilton Luxor Resort & Spa,5,Luxor
+195,Sonesta St. George Hotel Luxor,4.5,Luxor
+196,Steigenberger Resort Achti,4,Luxor
+197,Nefertiti Hotel,4.5,Luxor
+198,"Jolie Ville Hotel & Spa - Kings Island, Luxor",4.5,Luxor
+199,Pavillon Winter Luxor,4.5,Luxor
+200,Venus Hotel,5,Luxor
+201,Iberotel Luxor,4,Luxor
+202,Amon Hotel Luxor,4.5,Luxor
+203,New Memnon Hotel,5,Luxor
+204,El Mesala Hotel,4.5,Luxor
+205,Hotel Sheherazade,4.5,Luxor
+206,Al Moudira Hotel,4.5,Luxor
+207,Pyramisa Hotel Luxor,3.5,Luxor
+208,Aracan Eatabe Luxor Hotel,4,Luxor
+209,Shady Hotel Luxor,4,Luxor
+210,Jewel of the Valley Howard Carter Hotel,5,Luxor
+211,Cleopatra Hotel Luxor,4.5,Luxor
+212,Embrace Hotel,4.5,Luxor
+213,Happy Land Hotel,4.5,Luxor
+214,Rezeiky Camp & Hotel Luxor,4.5,Luxor
+215,El Nakhil Hotel,4.5,Luxor
+216,El Gezira Garden Hotel,4.5,Luxor
+217,Bob Marley House Hostel,4.5,Luxor
+218,Al Hambra Hotel,4.5,Luxor
+219,Al Baeirat Hotel,4.5,Luxor
+220,Nile Compound,4.5,Luxor
+221,Desert Paradise Lodge,5,Luxor
+222,Iberotel Costa Mares,5,Marsa_Alam
+223,Jaz Maraya,5,Marsa_Alam
+224,The Three Corners Equinox Beach Resort,4.5,Marsa_Alam
+225,Royal Marsa & Aqua Park,4.5,Marsa_Alam
+226,Steigenberger Resort Alaya,5,Marsa_Alam
+227,The Three Corners Sea Beach Resort,4.5,Marsa_Alam
+228,Sataya Resort Marsa Alam,4.5,Marsa_Alam
+229,Three Corners Fayrouz Plaza Beach Resort,4.5,Marsa_Alam
+230,Steigenberger Coraya Beach,5,Marsa_Alam
+231,The Three Corners Happy Life Beach Resort,4.5,Marsa_Alam
+232,Solymar Reef Marsa,4.5,Marsa_Alam
+233,Hilton Marsa Alam Nubian Resort,4.5,Marsa_Alam
+234,Concorde Moreen Beach Resort & Spa,4.5,Marsa_Alam
+235,Jaz Dar El Madina,4.5,Marsa_Alam
+236,Jaz Grand Marsa,4.5,Marsa_Alam
+237,Moevenpick Resort El Quseir,4.5,Marsa_Alam
+238,Jaz Solaya,4.5,Marsa_Alam
+239,Jaz Lamaya Resort,4.5,Marsa_Alam
+240,Hotelux Oriental Coast,4.5,Marsa_Alam
+241,Albatros Sea World Marsa Alam,4.5,Marsa_Alam
+242,Lazuli Hotel Marsa Alam,4.5,Marsa_Alam
+243,Brayka Bay Resort,4.5,Marsa_Alam
+244,Bliss Nada Beach Resort,4,Marsa_Alam
+245,Pense Royal Garden,3.5,Marsa_Alam
+246,Radisson Blu Resort El Quseir,4.5,Marsa_Alam
+247,Deep Blue Inn,4.5,Marsa_Alam
+248,The Oasis,4.5,Marsa_Alam
+249,Shams Alam Beach Resort,4,Marsa_Alam
+250,Jaz Samaya Resort,4.5,Marsa_Alam
+251,Marsa Shagra,4.5,Marsa_Alam
+252,Jaz Almaza Beach Resort,4.5,Mersa_Matruh
+253,Carols Beau Rivage,4,Mersa_Matruh
+254,Porto Matrouh Beach Resort,4,Mersa_Matruh
+255,Adriatica Hotel,4.5,Mersa_Matruh
+256,Belle Vue Hotel by Beau Site,3.5,Mersa_Matruh
+257,Almanara Hotel Marsa Matrouh,5,Mersa_Matruh
+258,Porto Said Resort & Spa,4,Port_Said
+259,Jewel El Gameel Hotel,5,Port_Said
+260,La Poste Hotel,3,Port_Said
+261,Resta Port Said Hotel,3,Port_Said
+262,Aracan Hotel,3,Port_Said
+263,Savoy Sharm El Sheikh,4.5,Sharm_El_Sheikh
+264,Steigenberger Alcazar,5,Sharm_El_Sheikh
+265,Rixos Sharm El Sheikh,5,Sharm_El_Sheikh
+266,Stella Di Mare Beach Hotel & Spa,5,Sharm_El_Sheikh
+267,Royal Savoy - Sharm El Sheikh,5,Sharm_El_Sheikh
+268,SUNRISE Arabian Beach Resort - Grand Select,4.5,Sharm_El_Sheikh
+269,Solymar Naama Bay,5,Sharm_El_Sheikh
+270,Aqua Blu Resort,4.5,Sharm_El_Sheikh
+271,Labranda Sharm Club,4.5,Sharm_El_Sheikh
+272,Iberotel Palace,4.5,Sharm_El_Sheikh
+273,Sierra Sharm El Sheikh,4.5,Sharm_El_Sheikh
+274,Baron Resort Sharm El Sheikh,4.5,Sharm_El_Sheikh
+275,Sultan Gardens Resort,4.5,Sharm_El_Sheikh
+276,Jaz Mirabel Beach,4.5,Sharm_El_Sheikh
+277,Hilton Sharks Bay Resort,4.5,Sharm_El_Sheikh
+278,Marina Sharm Hotel,4.5,Sharm_El_Sheikh
+279,Xperience St. George Homestay,4.5,Sharm_El_Sheikh
+280,Aurora Oriental Resort Sharm El Sheikh,4.5,Sharm_El_Sheikh
+281,Coral Sea Sensatori Resort,4.5,Sharm_El_Sheikh
+282,Four Seasons Resort Sharm El Sheikh,5,Sharm_El_Sheikh
+283,Royal Albatros Moderna,4.5,Sharm_El_Sheikh
+284,Charmillion Club Aqua Park,4.5,Sharm_El_Sheikh
+285,Concorde El Salam Hotel Sharm El Sheikh,4.5,Sharm_El_Sheikh
+286,Cleopatra Luxury Resort Sharm El Sheikh,4.5,Sharm_El_Sheikh
+287,Sentido Reef Oasis Senses Resort,4.5,Sharm_El_Sheikh
+288,Jaz Fanara Resort,4.5,Sharm_El_Sheikh
+289,IL Mercato Hotel & Spa,4.5,Sharm_El_Sheikh
+290,Amar Sina Boutique Village,3.5,Sharm_El_Sheikh
+291,Naama Blue Hotel,4.5,Sharm_El_Sheikh
+292,Falcon Naama Star,4,Sharm_El_Sheikh
