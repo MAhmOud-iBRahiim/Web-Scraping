@@ -1,0 +1,712 @@
+,Hotel_Name,Location,Rate,Governorate
+0,Jaz Little Venice,"Km 36, Ain El Sokhna Port Suez Road, Ataqah",8.2,Ain_sukhna
+1,Swiss Inn Teda Hotel & Aquapark,"3rd Plot, North-West Gulf of Suez, Ataqah, 43527",7.6,Ain_sukhna
+2,Stella Di Mare Sea Club Hotel,"Km 46, Suez-Hurghada Road, Ataqah",8.6,Ain_sukhna
+3,Retal View Resort El Sokhna,"Km 36 Suez-Ain Sokhna Road, Ataqah, Suez Governorate",6.0,Ain_sukhna
+4,Palmera Azur Resort – Families Only,"Km 32 Suez- Ain El Sokhna Rd, Ataqah, 11241, Egypt",5.6,Ain_sukhna
+5,Marina Wadi Degla Hotel,"KM35 Zafarana, Ain El Sokhna Road, Ataqah, 1111, Suez Governorate",,Ain_sukhna
+6,Elite Residence Tulip & Aqua Park,"KM 39, Suez Hurghada Road, Ataqah, 43552, Suez Governorate",9.0,Ain_sukhna
+7,Amigo Elsokhna Hotel,"Suez City, Ataqah, 43511, Suez Governorate",8.0,Ain_sukhna
+8,Four Seasons Hotel Alexandria at San Stefano,"399 El Geish Road, Alexandria, 21599",9.6,Alexandria
+9,TOLIP North Coast Hotel,"80 KM Marasa Matrouh Road, Al-Hammam",9.4,Alexandria
+10,Crystal Inn by Almasa - El Alamein,"Marina El Alamein, El Alamein, Matrouh Governorate",9.0,Alexandria
+11,Steigenberger Cecil Alexandria Hotel,"16, Saad Zagloul Square, Raml Station, Alexandria, 11015",9.0,Alexandria
+12,Panacea Hotel Borg El Arab,"22 KM Borg El Arab Road, King Mariout, Borg el Arab, 21411",8.8,Alexandria
+13,Hilton Alexandria Green Plaza,"14th of May Bridge Road, Alexandria, 21615",8.8,Alexandria
+14,SUNRISE Alex Avenue Hotel,"Cornish Road, Roushdy, Alexandria, 99998",8.0,Alexandria
+15,Tolip Family Club Borg El Arab,"Army Stadium, Gate 8, Al-'Amriyah, 21934",8.0,Alexandria
+16,Hilton Alexandria Corniche,"544 El Geish Road, Alexandria, 21611, Beheira",7.8,Alexandria
+17,Helnan Palestine Hotel,"Montaza Palace Royal Gardens, Alexandria",7.8,Alexandria
+18,Alexander the Great Hotel - Alexotel,"5 Oskofia street, Alexandria, 99999",7.6,Alexandria
+19,Paradise Inn Le Metropole Hotel,"52. Saad Zaghloul St., Alexandria, 21111",7.4,Alexandria
+20,Paradise Inn Beach Resort,"El-Shaheed youssef El-Sebaey, Alexandria",7.4,Alexandria
+21,Borg El Arab Beach Hotel,"Km 52, Alexandria Matrouh Road, Borg el Arab, 23121, Alexandria",7.4,Alexandria
+22,Tolip Alexandria,"252, Moustafa Kamel, Corniche Road, Alexandria",7.4,Alexandria
+23,Adham Compound,"King Mariout - Borg El Arab High Way, Al-'Amriyah, 55",7.2,Alexandria
+24,Aura Resort Sidi Abdel Rahman - El Alamein,"Km 138 Alexandria-Matrouh Costal Road, El Alamein, Marsa Matrouh Governorate",7.2,Alexandria
+25,San Giovanni Stanly Hotel & Restaurant,"205 El Gueish Avenue, Alexandria, Egypt",7.0,Alexandria
+26,Plaza Hotel Alexandria,"El Gueish Avenue 394, Alexandria, 21532",7.0,Alexandria
+27,Windsor Palace Hotel,"17, El Shohada St., El Ramle Station, Alexandria, 21111",6.8,Alexandria
+28,Cherry Maryski Hotel,"No 9, El Borsa El Kadema Street, Alexandria, 21519",6.6,Alexandria
+29,The Grand Plaza Hotel Smouha,"14th May Avenue, Smouha, Alexandria",6.6,Alexandria
+30,Sheraton Montazah Hotel,"Corniche Road, Alexandria",6.6,Alexandria
+31,Aifu Resort,"Sheraton Montazah Towers, Cournish Road, Alexandria",6.2,Alexandria
+32,Amoun Hotel Alexandria,"32 El Nasr St., El Manshia, Alexandria, 9999, Alexandria Governorate",5.6,Alexandria
+33,Royal NJ Hotel,"Central Zone Block 5 No. 1, New Burj al-'Arab City, 21934, Alexandria",5.6,Alexandria
+34,Sea View Hotel Elagamy,"Elagamy Elbetash End of Elhanfya Street, Alexandria, 21928",4.0,Alexandria
+35,Green Leaves Aqua Park Beach Resort North Coast,"75 KM Alexandria Matrouh Road, Al-Hammam, 00000",4.0,Alexandria
+36,Siesta Hotel,"Front of Marina Gate 5-Alex.Matrouh Rd, Al-Hammam, 51512, Matrouh Governorate",,Alexandria
+37,Siesta Hotel,"Front of Marina Gate 5-Alex.Matrouh Rd, Al-Hammam, 51512, Matrouh Governorate",,Alexandria
+38,Romance Alexandria Hotel,"303 Tareek El Gueish Saba Pasha, Alexandria",8.0,Alexandria
+39,Rixos Alamein,"North Coast Matruh Road, Ad-Dab'ah",9.0,Alexandria
+40,Jewel San Stefano Hotel,"409 El Gaish Road, Alexandria",8.0,Alexandria
+41,"Radisson Blu Hotel, Alexandria","Mehwar El Taameer, Alex West, Al-'Amriyah, 21599",8.4,Alexandria
+42,Golf Porto Marina,"Km 110 Alexandria, Marsa Matrouh Road, El Alamein",10.0,Alexandria
+43,Kato Dool Nubian House,"Gharb Sohail Aswan, Aswan",9.2,Aswan
+44,Villa Misk,"Pateniol, Khazan Sharq, Aswan, 81111, Aswan",9.0,Aswan
+45,Movenpick Resort Aswan,"Elephantine Island, Aswan, 81111",8.6,Aswan
+46,Tolip Aswan Hotel,"Cornich El Nile, Aswan, 294",8.6,Aswan
+47,Basma Executive Club,"Elfanadek street, 81111, Aswan, Aswan Governorate",7.8,Aswan
+48,Obelisk Nile Hotel Aswan,"Corniche El Nile, Aswan, Aswan",7.4,Aswan
+49,Basma Hotel Aswan,"EI fanadek street, Aswan, 1111, Aswan",7.0,Aswan
+50,Ajilika,"Hissa Island, Aswan, Aswan Governorate",,Aswan
+51,Guesthouse Bet el Kerem,"Nagh El Kuba, Aswan, Aswan, Aswan Governorate",,Aswan
+52,Anakob,"Aswan, Aswan Governorate",,Aswan
+53,Benben By Dhara Hotels,"Philae Island, Aswan, Aswan Governorate",,Aswan
+54,Citymax Hotel Aqua Park,Private host,,Aswan
+55,Anakato Kiki,"West Sohil, Aswan, Aswan",,Aswan
+56,Citymax Hotel Aswan,"Kornish Al Nile, Aswan",8.4,Aswan
+57,Hadouta Masreya - Nubian Guest House,"Gharb Soheil, Aswan, Egypt",8.4,Aswan
+58,The Mango Guesthouse,"Jazirat Aswan, Aswan, Aswan Governorate",8.4,Aswan
+59,Maghrabi's Guest House,"Aswan west bank, naga El quba, Aswan, 81518, Aswan",9.6,Aswan
+60,Kendaka Nubian House,"Nagaa Suhayl Gharb, Aswan, Aswan Governorate",9.0,Aswan
+61,Nubian Kindom Aragheed House,"Street 2, Aswan, Aswan Governorate",10.0,Aswan
+62,MS Movenpick Prince Abbas Nile Cruise,"Aswan Nile Cruise Port, Aswan, 00000, Aswan Governorate",8.0,Aswan
+63,Nuba Narty,"Saloga and Gazal National Park, Aswan, 81111",8.0,Aswan
+64,Hotel Longchamps Cairo,"21 Ismail Mohamed Street, Cairo",9.8,Cairo
+65,The St. Regis Cairo,"1189 Corniche El Nil, Downtown Cairo, Cairo, Cairo",9.6,Cairo
+66,Royal Maadi Hotel,"11, Rd.18, Sarayat El Maadi, Cairo",9.4,Cairo
+67,Monte Cairo Serviced Apartment,"88 Mokattam Street, Mokattam, Cairo, 11571, Cairo Governorate",9.4,Cairo
+68,Four Seasons Hotel Cairo at First Residence,"35 Giza Street, Giza, 12311",9.2,Cairo
+69,"Staybridge Suites Cairo Citystars, an IHG Hotel","Emtedad Makram Obeid Street, Cairo, 11737",9.2,Cairo
+70,Great Pyramid Inn,"14 Abou Al Hool Al Seiahi, Giza, 12561",9.2,Cairo
+71,Al Madiafa,"4 Champollion Rd, Cairo, Cairo Governorate",9.0,Cairo
+72,Valencia Hotel,"1 Seket Elfadl Talaat Harb Street, Cairo, 11512",9.0,Cairo
+73,Le Méridien Cairo Airport,"Cairo Airport , Terminal 3, Cairo, 11341",9.0,Cairo
+74,Le Riad Hotel de Charme,"114 El Moez St., Cairo",9.0,Cairo
+75,Giza Pyramids View Inn,"6 sphinx St,pyramids,Giza,Cairo,Egypt, Giza, 12557, giza",9.0,Cairo
+76,Pyramids Top Inn,"Abu Elhol Street Pyramids Area No:15, Giza, 11112, Egypt",9.0,Cairo
+77,Nile View Aton Cruise,"Maadi Corniche, Next to Al Shorouk Club, Turah, Cairo Governorate",9.0,Cairo
+78,Four Seasons Hotel Cairo at Nile Plaza,"1089 Corniche El Nile, Cairo, 11519",8.8,Cairo
+79,Helnan Dreamland Hotel & Conference Center,"Wahat Road, Dreamland, 6th of October City",8.8,Cairo
+80,JW Marriott Hotel Cairo,"Ring Road-Mirage City, New Cairo, 11757",8.8,Cairo
+81,Marriott Mena House Cairo,"6 Pyramids Road, Giza, 12556",8.8,Cairo
+82,Valencia Hotel,"1 Seket Elfadl Talaat Harb Street, Cairo, 11512",9.0,Cairo
+83,Le Méridien Cairo Airport,"Cairo Airport , Terminal 3, Cairo, 11341",9.0,Cairo
+84,Le Riad Hotel de Charme,"114 El Moez St., Cairo",9.0,Cairo
+85,Giza Pyramids View Inn,"6 sphinx St,pyramids,Giza,Cairo,Egypt, Giza, 12557, giza",9.0,Cairo
+86,Pyramids Top Inn,"Abu Elhol Street Pyramids Area No:15, Giza, 11112, Egypt",9.0,Cairo
+87,Nile View Aton Cruise,"Maadi Corniche, Next to Al Shorouk Club, Turah, Cairo Governorate",9.0,Cairo
+88,Four Seasons Hotel Cairo at Nile Plaza,"1089 Corniche El Nile, Cairo, 11519",8.8,Cairo
+89,Helnan Dreamland Hotel & Conference Center,"Wahat Road, Dreamland, 6th of October City",8.8,Cairo
+90,JW Marriott Hotel Cairo,"Ring Road-Mirage City, New Cairo, 11757",8.8,Cairo
+91,Marriott Mena House Cairo,"6 Pyramids Road, Giza, 12556",8.8,Cairo
+92,The Location Hotel,"34 Abdelkhalek tharwat ST, Cairo, Cairo",8.8,Cairo
+93,Tahrir Plaza Suites,"19 Meret Basha St., Cairo, 99999, Cairo Governorate",8.8,Cairo
+94,Kempinski Nile Hotel Cairo,"12 Ahmed Ragheb Street, Cairo, 11519, Cairo Governorate",8.8,Cairo
+95,Steigenberger Hotel El Tahrir,"2, Kasr Al Nile Street, Downtown, Cairo, Cairo Governorate",8.8,Cairo
+96,Safir Hotel Cairo,"Orman, El Missaha Square, Giza, 12611",8.8,Cairo
+97,Desert Moon,"Hadayek Al Ahram 201W, Giza, 12611, Giza Governatore",8.8,Cairo
+98,Havana Hotel Cairo,"26 syria street El mohandssen area, Giza, 12411, giza",8.6,Cairo
+99,Zayed Hotel,"42 Abu El Mahasn El Shazly Square, Giza, 12411",8.6,Cairo
+100,"InterContinental Cairo Citystars, an IHG Hotel","Omar Ibn El Khattab Street, Cairo, 11737",8.6,Cairo
+101,1920s Boutique Hotel and Restaurants,"58 Beirut 2 smanod street, Heliopolis, Cairo, 11757",8.6,Cairo
+102,"The Nile Ritz-Carlton, Cairo","1113 Corniche El Nil Street, Cairo, 11221",8.6,Cairo
+103,Golden Hotel Cairo,"13 Talaat Harb st, Downtown, Cairo, 11111",8.6,Cairo
+104,Pyramids Valley,"25 Abo Alhool Street, Giza, 12557, Giza",8.4,Cairo
+105,Concorde El Salam Hotel,"65 Abdel Hamid Badawi St, Cairo, 11776",8.4,Cairo
+106,Hyatt Regency Cairo West,"KM 22 Cairo - Alexandria Desert Road, 6th of October City, 8655, Cairo Governorate",8.4,Cairo
+107,Pyramid edge,"Nazlet Al Seman Al Kebli, Giza, Giza Governorate",8.4,Cairo
+108,Royal Day Hotel,"Royal Day Hotel,Motamayez, 6th of October City, Giza Governorate",8.4,Cairo
+109,Regency Pyramids,"Al Shams, Giza, Giza Governorate",8.4,Cairo
+110,Best View Pyramids Hotel,"13 Gamal Abd Nasser Street, Giza, 12557",8.4,Cairo
+111,Villa Belle Epoque,"Road 13, Villa 63, Cairo",8.4,Cairo
+112,Nine Pyramids View Hotel,"2st, Mohamed Hassab Salam, Mansoria, Giza, 12557, Giza Governorate",8.4,Cairo
+113,Golden Pyramids Inn,"Nazlet Al Seman, Giza, 12557, Giza Governorate",8.4,Cairo
+114,Swiss Inn Nile Hotel,"110, El Bahr El Aazem Street, Giza, 12211",8.2,Cairo
+115,Novotel Cairo 6th Of October,"Ext. 26th of July St., 6th of October City, 0",8.2,Cairo
+116,Jewel Zamalek Hotel,"26th of July Street, Zamalek, Cairo, Cairo Governorate",8.2,Cairo
+117,Sahara Pyramids Inn,"14 Sphinx Street, Giza, 12561, Giza Governorate",8.2,Cairo
+118,Osiris Hotel,"49 Nobar St, Down Town, Cairo, 11111",8.2,Cairo
+119,Sheraton Cairo Hotel & Casino,"Galaa Square, Giza, 11511",8.2,Cairo
+120,Conrad Cairo,"1191 Corniche El Nil, Cairo, 11221",8.2,Cairo
+121,Steigenberger Pyramids Cairo,"Alexandria Road, Pyramids, Giza",8.2,Cairo
+122,Columbia Hotel,"42 Talaat Harb, Cairo, Cairo Governorate",8.2,Cairo
+123,New Palace Hotel,"17 Soliman El-Halaby, Cairo",8.0,Cairo
+124,Sofitel Cairo Nile El Gezirah,"3 El Thawra Council St Zamalek, Cairo, 11518",8.0,Cairo
+125,Hilton Cairo Zamalek Residences,"21 Mohamed Mazher Street, Cairo, 11211",8.0,Cairo
+126,Panorama Pyramids Inn,"14 Abu el Houl Street, Giza, 12557, Giza Governorate",8.0,Cairo
+127,Cairo Marriott Hotel & Omar Khayyam Casino,"16 Saray El Gezira, Cairo, 11211",8.0,Cairo
+128,"Fairmont Nile City, Cairo","Nile City Towers - 2005 B, Cairo, 2466",8.0,Cairo
+129,Swiss Inn Plaza,"Dreamland, Al wahat Road, 6th of October City",8.0,Cairo
+130,City View Hotel,"1 El Bostan Street, Al-Tahrir Square, Cairo, 11513",8.0,Cairo
+131,Lyly Hotel,"43 Sherif Basha, Cairo, Cairo Governorate",8.0,Cairo
+132,Hilton Cairo Heliopolis,"EL-OROUBA, QISM EL-NOZHA, Cairo",8.0,Cairo
+133,Royal Maxim Palace Kempinski Cairo,"Eastern Ring Road, New Cairo, 11477",8.0,Cairo
+134,Golden Tulip Flamenco,"2 El Gezira El Wosta Street, Cairo, 11211",8.0,Cairo
+135,Mena Inn Pyramids,"Abou Al Hool Al Seiahi, Pyramids, Giza, 12557",7.8,Cairo
+136,"Holiday Inn Cairo Citystars, an IHG Hotel","Ali Rashid Street, Heliopolis, Cairo, 11757",7.8,Cairo
+137,"Intercontinental Cairo Semiramis, an IHG Hotel","Corniche El Nil Street, Cairo, 11511",7.8,Cairo
+138,Victory Of Downtown Hotel,"56 Kasr Al Nile, Cairo, 11518, Abdeen",7.8,Cairo
+139,Tolip Golden Plaza,"Omar Ibn El khattab Street, Nasr City, Cairo",7.8,Cairo
+140,St. George Hotel Cairo,"7 Radwan Ebn El-tabib, Giza, 12511, Giza Governorate",7.8,Cairo
+141,Abdeen Palace Hotel,"2 Mohammed Sabri Abou Alam, 3rd floor, Cairo, Cairo Governorate",7.8,Cairo
+142,Pharaohs Hotel,"12 Lotfi Hassouna Street, Giza, 12611, Giza Governorate",7.8,Cairo
+143,Novotel Cairo El Borg,"3 Saraya El Gezira street, Cairo, 11111",7.6,Cairo
+144,Pyramids Eyes Hotel,"Kafr Nassar Next to Kia Motors, Giza, Giza Governerate",7.6,Cairo
+145,Barceló Cairo Pyramid,"229 Al Haram Road, Giza, 12111",7.6,Cairo
+146,Amin hotel,"38 Falaky Square, Downtown, Cairo, 11311",7.6,Cairo
+147,President Hotel,"22 Taha Hussein Str, Cairo",7.6,Cairo
+148,The Square Boutique Hotel,"Talaat Harb Square Number 3, Cairo, 99999, Cairo Governorate",7.6,Cairo
+149,Salma Hotel,"12 Moh. Kamel Morsi St., Giza, Giza Governorate",7.6,Cairo
+150,Pyramids Sun Capital,"9 Abou Al Hool Al Seiahi, Giza, Giza Governorate",7.6,Cairo
+151,The Gabriel,"Suncity mail, Autostrad Road, Cairo, 11335",7.6,Cairo
+152,Minerva Grand Boutique,"39 Talat Harb, Cairo, 1164, Giza Governorate",7.6,Cairo
+153,Dusit Thani LakeView Cairo,"The Lakeview, El Tesseen Street, New Cairo",7.6,Cairo
+154,Gawharet Al Ahram Hotel,"103, Al Ahram St, Giza, 00202",7.6,Cairo
+155,Azar Boutique Hotel,"09 Adly street, Cairo, 11111, Cairo",7.6,Cairo
+156,Marvel Stone Hotel,"6 Gerier street, nazlet el semman, Giza, Giza, 12511",7.6,Cairo
+157,Triumph Luxury Hotel,"New Cairo, New Cairo",7.6,Cairo
+158,Le Passage Cairo Hotel & Casino,"Cairo Intl. Airport Road, Heliopolis, Cairo, 11361, Cairo Governorate",7.6,Cairo
+159,hotel Velvet 1915,"2 Marouf Street, Cairo, 11552, Cairo Governorate",7.6,Cairo
+160,Arabesque Hotel,"11 Ramses Street, Cairo, 15562",7.4,Cairo
+161,New Star Zamalek Hotel,"34B Yehia Ibrahim, Cairo, 11561, Cairo",7.4,Cairo
+162,Baron Hotel Cairo Heliopolis,"Ma'ahad Al Sahary Street, Cairo, 11361",7.4,Cairo
+163,Triumph Plaza Hotel,"El Khalifa El Maamoun St. Heliopolis, Cairo, 258",7.4,Cairo
+164,Cleopatra Hotel,"2 Al Bustan street, Downtown, Cairo, 11513, Egypt",7.4,Cairo
+165,"Sonesta Hotel, Tower & Casino - Cairo","3 El Tayaran Street, Cairo",7.4,Cairo
+166,Novotel Cairo Airport,"Salah Salem Highway, Cairo, 11776",7.2,Cairo
+167,Cairo Pyramids Hotel,"Alexandria Road, Giza",7.2,Cairo
+168,Al Masa Hotel,"Gameat Al Azhar, Qesm Than Madinet Nasr,, Cairo",7.2,Cairo
+169,New President Hotel,"20 Taha Hussein st, Cairo",7.2,Cairo
+170,Lotus Hotel,"12, Talaat Harb Street, Cairo",7.2,Cairo
+171,Movenpick Hotel & Casino Cairo-Media City,"Wahat Road, 6th of October City, 12451",7.2,Cairo
+172,New Panorama Hotel,"42 talaat.harb, Cairo, 11956, cairo",7.2,Cairo
+173,Paris Hotel,"15 Talaat Harb Street, Cairo, 11111",7.2,Cairo
+174,Royal Marshal Hotel,"4 El Khalifa El Maamoun St., Cairo, 11341, Egypt",7.2,Cairo
+175,Grand Agor Hotel,"15 Sherif Street, Cairo, 11111",7.2,Cairo
+176,Ramses Hilton,"1115 Corniche El Nile, Cairo, 12334",7.0,Cairo
+177,Om Kolthoom Hotel & Tower,"5 Abu El Feda Street, Cairo",7.0,Cairo
+178,Tut Pyramids View Hotel,"Gamal Abd El-nasir St., Giza, 12557",7.0,Cairo
+179,Radisson Blu Hotel Cairo Heliopolis,"Abdel Hamid Badawy St, Cairo, 11787",7.0,Cairo
+180,Hotel Velvet 1889,"118 Mohammed Farid, Cairo, Cairo Governorate",7.0,Cairo
+181,Beirut Hotel,"56 Beirut Street, Cairo, Egypt",7.0,Cairo
+182,Grand Palace Hotel,"14 Champollion Rd, Cairo, 11111",7.0,Cairo
+183,Hilton Pyramids Golf,"Dreamland El Wahat Road,6th of October, 6th of October City, 2500",6.8,Cairo
+184,Swiss Inn Hotel Cairo,"7 El Hegaz St. From Gamet El Dewal St., Giza, 12411",6.8,Cairo
+185,Sydna All Hussain Hotel,"10 Al Aded, Cairo, Cairo Governorate",6.6,Cairo
+186,Grand City Hotel,"Bostan Ibn Al Quraish El Tahrir Square, Cairo, 00202, Cairo Governorate",6.6,Cairo
+187,Grand Nile Tower,"Corniche El Nil, Garden City, Cairo, 11519",6.6,Cairo
+188,Oasis Hostel,"11 Ramsis St, 5th floor, Cairo, Cairo Governorate",6.6,Cairo
+189,The Oasis Hotel Pyramids,"Cairo-Alexandria Desert Road, Giza",6.6,Cairo
+190,Arabian Nights Hotel,"10 Al Aded Street off of Mansouria St., Cairo",6.6,Cairo
+191,Sphinx Golden Gate Inn,"Building No 9 Sphinx Street, Giza, 12557, Giza Governorate",6.6,Cairo
+192,Jewel Maadi Cabins and Club,"Maadi Corniche, Cairo, 11728, Cairo Governorate",6.6,Cairo
+193,Hotel Velvet 1928,"8, Gawad Housny Street, Cairo, 02002, Cairo",6.6,Cairo
+194,Maadi Hotel,"19 Misr Helwan Rd, Cairo, 11431, Egypt",6.4,Cairo
+195,New City Hotel,"5 Talaat Harb, Cairo, Cairo Governorate",6.4,Cairo
+196,Hotel Amarante Pyramids,"29 Abou Hazem Street, Giza, 112211",6.2,Cairo
+197,Panorama Ramsis Hotel & Cafe,"10 Saif Al Din Mahrani, Cairo, 3111",6.2,Cairo
+198,Helnan Nile Island Hotel,"67 Abdulaziz Al Saud, Cairo, Cairo Governorate",6.0,Cairo
+199,Holidays Express Hotel,"2 Gamaat El Dowal El Arabia Street, Giza, 11511",6.0,Cairo
+200,New Hotel,"21 Adly, Cairo, Cairo Governorate",6.0,Cairo
+201,Grand Talat Harb Plaza,"Talat Harb Square, 2, Cairo, 11121, Cairo Governorate",6.0,Cairo
+202,Jewel Maadi Cabins and Club,"Maadi Corniche, Cairo, 11728, Cairo Governorate",6.6,Cairo
+203,Hotel Velvet 1928,"8, Gawad Housny Street, Cairo, 02002, Cairo",6.6,Cairo
+204,Maadi Hotel,"19 Misr Helwan Rd, Cairo, 11431, Egypt",6.4,Cairo
+205,New City Hotel,"5 Talaat Harb, Cairo, Cairo Governorate",6.4,Cairo
+206,Hotel Amarante Pyramids,"29 Abou Hazem Street, Giza, 112211",6.2,Cairo
+207,Panorama Ramsis Hotel & Cafe,"10 Saif Al Din Mahrani, Cairo, 3111",6.2,Cairo
+208,Helnan Nile Island Hotel,"67 Abdulaziz Al Saud, Cairo, Cairo Governorate",6.0,Cairo
+209,Holidays Express Hotel,"2 Gamaat El Dowal El Arabia Street, Giza, 11511",6.0,Cairo
+210,New Hotel,"21 Adly, Cairo, Cairo Governorate",6.0,Cairo
+211,Grand Talat Harb Plaza,"Talat Harb Square, 2, Cairo, 11121, Cairo Governorate",6.0,Cairo
+212,Pyramids Park Resort Cairo,"Alexandria Desert Road-km 2.5, Giza, 12411",5.8,Cairo
+213,Pyramisa Suites Hotel Cairo,"60 Giza Street, Giza, 12311",5.6,Cairo
+214,Cairo Paradise Hotel,"41 Sherif Street, Cairo",5.6,Cairo
+215,Grand Cairo Hotel,"5 Sherif El-Sagheer, Cairo, 11613, Cairo Governorate",5.4,Cairo
+216,Aracan Pyramids Hotel,"198 El-Haram Street, Cairo, Giza, 12111",5.2,Cairo
+217,New Hostgram Hotel,"26 Talaat Harb, Cairo, Cairo Governorate",5.0,Cairo
+218,City Palace Hotel,"1 El Amir Qadadar Street , Tahrir Sq., Cairo",4.8,Cairo
+219,Al Nabila Hotel,"4 Gameat el-Dowal el-Arabiya Street, Cairo",4.2,Cairo
+220,Grand Lyly Hotel,"19 Adly street, Al Fawalah, Downtown, Cairo, Cairo Governorate",4.0,Cairo
+221,Magic Golden Pyramids Inn,"El-Salam Street, Nazlet El-Saman, Giza, 12561, Giza Governorate",4.0,Cairo
+222,Jewel Al Nasr Hotel & Apartments,"Rabaa al Adawiya Nasr City, Cairo, nasr city",4.0,Cairo
+223,E2 Lodge Hotel Operated by Lemon Spaces,"North Extension of 3rd Industrial Zone, 6th of October City, 12566, Giza Governorate",3.4,Cairo
+224,Claridge Hotel,"41 Talaat Harb, Cairo, 11613, Cairo Governorate",2.0,Cairo
+225,Jewel Inn El Bakry Hotel,"47 Ibn Sender Street, Kobry El-Koba, Cairo, 11765, Cairo",2.0,Cairo
+226,Jewel Dokki Hotel,"11 El-Batal Ahmed Abd El-Aziz, Giza, Giza Governorate",2.0,Cairo
+227,Nour Elsabah Hotel,"6 Mamar Seket Elbadestan, Khan Elkhalili, Cairo, 11675",,Cairo
+228,Pyramids View Apartments & Rooftop,"69 H Pyramids Gardens, Giza, 12345, Giza Governorate",,Cairo
+229,Galaxy Royal Suites Hotel,"Abdulaziz Al Saud 67, Cairo, 11553",,Cairo
+230,Abou 3Pyramids Plaza Hotel,"Al mansouria, Giza, 12511, Giza Governorate",,Cairo
+231,100 Night per year at Grand Blue Hotels,"24 Mahmoud Basuony St., Cairo",,Cairo
+232,Pyramid stars inn,"21 Elfareda Queen Street, Giza, Giza Governorate",,Cairo
+233,Gresham,"20 Talaat Harb Street, Cairo",,Cairo
+234,Pyramids Gardens Hotel,"Street 9, Giza, Giza Governorate",,Cairo
+235,jasmine Hotel EL Manial,"137 Abdulaziz Al Saud Street, Cairo, 11451, Cairo Governorate",,Cairo
+236,Royal Day Plaza Hotel,"Ramo Square, 6th of October City, Giza Governorate",,Cairo
+237,Kanzy Hotel,"9 Abou Bakr El Seddik St., Giza, 12611",,Cairo
+238,Joy Hotel,"31 Champollion Rd Talaat Harb, Cairo, Cairo, 11513, Cairo Governorate",,Cairo
+239,Pyramids Tower,"21 Zagluol, Giza, 12512, Giza Governorate",,Cairo
+240,Nile Island View hotel,Private host,,Cairo
+241,the kheops pyramids view hotel and resort pyramids view best view such amazing..,Private host,,Cairo
+242,Pyramid stars inn,"21 Elfareda Queen Street, Giza, Giza Governorate",,Cairo
+243,Gresham,"20 Talaat Harb Street, Cairo",,Cairo
+244,Pyramids Gardens Hotel,"Street 9, Giza, Giza Governorate",,Cairo
+245,jasmine Hotel EL Manial,"137 Abdulaziz Al Saud Street, Cairo, 11451, Cairo Governorate",,Cairo
+246,Royal Day Plaza Hotel,"Ramo Square, 6th of October City, Giza Governorate",,Cairo
+247,Kanzy Hotel,"9 Abou Bakr El Seddik St., Giza, 12611",,Cairo
+248,Joy Hotel,"31 Champollion Rd Talaat Harb, Cairo, Cairo, 11513, Cairo Governorate",,Cairo
+249,Pyramids Tower,"21 Zagluol, Giza, 12512, Giza Governorate",,Cairo
+250,Nile Island View hotel,Private host,,Cairo
+251,the kheops pyramids view hotel and resort pyramids view best view such amazing..,Private host,,Cairo
+252,Indiana Hotel Cairo,"Adel Hussein Rostom, Ad Doqi A, Ad, Giza, 12611, Giza Governorate",5.6,Cairo
+253,Indiana Hotel Cairo,"Adel Hussein Rostom, Ad Doqi A, Ad, Giza, 12611, Giza Governorate",5.6,Cairo
+254,Le Méridien Pyramids Hotel & Spa,"El Remaya Square-Pyramids, Giza, 12561",8.4,Cairo
+255,Egypt Pyramids Inn,"1 Abou Al Hool Al Seiahi, Giza, Giza Governorate",8.4,Cairo
+256,Pearl Hotel,"32, Streets 7, Maadi, Cairo, 11431",8.2,Cairo
+257,New Cairo Heart Hotel,"17 Bustan Street, Cairo, 55101",8.0,Cairo
+258,Pyramids Height Inn,"EMRO Al Kais, Giza, Giza Governorate",8.0,Cairo
+259,Adonis Nile Cruise,"Maadi Corniche, Next to Al Shorouk Club, Turah, 11513, Cairo Governorate",8.0,Cairo
+260,Hor Moheb Hotel,"429 Pyramids Road, Giza, 99999, Giza Governorate",10.0,Cairo
+261,Great View Apartment,"60 Gamal Abd El-Nasir, Giza, 12557, Giza Governorate",10.0,Cairo
+262,Cozy Studios Pyramids View,"20 Abou Al Hool Al Seiahi, Giza, 12557, Giza Governorate",8.0,Cairo
+263,Happy City Hotel,"92 C Mohamed Farid St, Abdin, Cairo, 11121",8.0,Cairo
+264,Pyramids Empire Inn,"Zawya Abou Muslim, Mansuriya Road, Giza, 12841, Giza Governorate",9.0,Cairo
+265,Vibes Hostel & SPA,"Noaman Gomaa, Obour City, 11828, Qalyubia Governorate",10.0,Cairo
+266,Tropitel Dahab Oasis Resort,"Blue Hole Road Dolphin Bay 0 3, Dahab, 0, South Sinai Governorate",8.0,Dahab
+267,Daniela Village Dahab,"43 Blue Hole Road, Dahab, South Sinai Governorate",8.2,Dahab
+268,Swiss Inn Resort Dahab,"Dahab, St. Catherine, 46111, South Sinai Governorate",8.8,Dahab
+269,Jaz Dahabeya,"Lagoon Area, St. Catherine, South Sinai Governorate",9.0,Dahab
+270,Bedouin Moon Hotel,"Blue Hole Road, St. Catherine, South Sinai Governorate",8.2,Dahab
+271,Golden Star Camb,"Al Masbet 4, Dahab, St. Catherine, 46617, South Sinai Governorate",,Dahab
+272,Sheikh Ali Dahab Resort,"New Mashraba Street, St. Catherine, South Sinai Governorate",10.0,Dahab
+273,Le Meridien Dahab Resort,"South Sinai, St. Catherine, South Sinai Governorate",7.4,Dahab
+274,Golden Europe Hotel,"1 Lighthouse Road, Dahab, St. Catherine, 46617, South Sinai Governorate",8.0,Dahab
+275,Family Dahab House,"St. Catherine, South Sinai Governorate",,Dahab
+276,El Primo Dahab Hotel,"El Melik Street, St. Catherine, South Sinai Governorate",8.0,Dahab
+277,Sarah Village Dahab,"Lagoona area, Dahab, St. Catherine, South Sinai Governorate",,Dahab
+278,Banana Beach Camp,"Nuweiba, Nuweiba, 11114, South Sinai Governorate",,Dahab
+279,Sababa hotel Dahab,"Dahab Main Promenade, St. Catherine, 46617",6.0,Dahab
+280,Ecotel Dahab Bay View Resort,"Dehab-Sharm El Sheikh, St. Catherine, 45214, South Sinai Governorate",9.4,Dahab
+281,Coral Resort Nuweiba,"Newabaa Street, Nuweiba, South Sinai Governorate",8.2,Dahab
+282,Shams Hotel & Dive Centre,"Mashraba St, St. Catherine, 46617, South Sinai Governorate",8.0,Dahab
+283,Skyrock,"St. Catherine, South Sinai Governorate",8.4,Dahab
+284,Jimmy Hotel Dahab,"Dahab Mashraba st. DOWN TOWN, St. Catherine, South Sinai Governorate",9.6,Dahab
+285,Star Of Dahab,"Mashraba St, St. Catherine, 46617, South Sinai Governorate",8.0,Dahab
+286,Sayadeen Village,"Sayadeen Village Road, Nuweiba, Nuweiba, South Sinai Governorate",10.0,Dahab
+287,Neptune Hotel,"Al Masbat, Next To The Bridge, St. Catherine, South Sinai Governorate",10.0,Dahab
+288,Dahab Divers,"El Fanar Street, St. Catherine, 46617, South Sinai Governorate",8.0,Dahab
+289,Four Seasons Hotel Cairo at First Residence,"35 Giza Street, Giza, 12311",9.2,Giza
+290,Great Pyramid Inn,"14 Abou Al Hool Al Seiahi, Giza, 12561",9.2,Giza
+291,Pyramids Empire Inn,"Zawya Abou Muslim, Mansuriya Road, Giza, 12841, Giza Governorate",9.0,Giza
+292,Giza Pyramids View Inn,"6 sphinx St,pyramids,Giza,Cairo,Egypt, Giza, 12557, giza",9.0,Giza
+293,Pyramids Top Inn,"Abu Elhol Street Pyramids Area No:15, Giza, 11112, Egypt",9.0,Giza
+294,Marriott Mena House Cairo,"6 Pyramids Road, Giza, 12556",8.8,Giza
+295,Safir Hotel Cairo,"Orman, El Missaha Square, Giza, 12611",8.8,Giza
+296,Desert Moon,"Hadayek Al Ahram 201W, Giza, 12611, Giza Governatore",8.8,Giza
+297,Havana Hotel Cairo,"26 syria street El mohandssen area, Giza, 12411, giza",8.6,Giza
+298,Zayed Hotel,"42 Abu El Mahasn El Shazly Square, Giza, 12411",8.6,Giza
+299,Pyramids Valley,"25 Abo Alhool Street, Giza, 12557, Giza",8.4,Giza
+300,Pyramid edge,"Nazlet Al Seman Al Kebli, Giza, Giza Governorate",8.4,Giza
+301,Regency Pyramids,"Al Shams, Giza, Giza Governorate",8.4,Giza
+302,Best View Pyramids Hotel,"13 Gamal Abd Nasser Street, Giza, 12557",8.4,Giza
+303,Nine Pyramids View Hotel,"2st, Mohamed Hassab Salam, Mansoria, Giza, 12557, Giza Governorate",8.4,Giza
+304,Golden Pyramids Inn,"Nazlet Al Seman, Giza, 12557, Giza Governorate",8.4,Giza
+305,Swiss Inn Nile Hotel,"110, El Bahr El Aazem Street, Giza, 12211",8.2,Giza
+306,Sahara Pyramids Inn,"14 Sphinx Street, Giza, 12561, Giza Governorate",8.2,Giza
+307,Sheraton Cairo Hotel & Casino,"Galaa Square, Giza, 11511",8.2,Giza
+308,Steigenberger Pyramids Cairo,"Alexandria Road, Pyramids, Giza",8.2,Giza
+309,Panorama Pyramids Inn,"14 Abu el Houl Street, Giza, 12557, Giza Governorate",8.0,Giza
+310,Mena Inn Pyramids,"Abou Al Hool Al Seiahi, Pyramids, Giza, 12557",7.8,Giza
+311,St. George Hotel Cairo,"7 Radwan Ebn El-tabib, Giza, 12511, Giza Governorate",7.8,Giza
+312,Pharaohs Hotel,"12 Lotfi Hassouna Street, Giza, 12611, Giza Governorate",7.8,Giza
+313,Pyramids Eyes Hotel,"Kafr Nassar Next to Kia Motors, Giza, Giza Governerate",7.6,Giza
+314,Barceló Cairo Pyramid,"229 Al Haram Road, Giza, 12111",7.6,Giza
+315,Salma Hotel,"12 Moh. Kamel Morsi St., Giza, Giza Governorate",7.6,Giza
+316,Pyramids Sun Capital,"9 Abou Al Hool Al Seiahi, Giza, Giza Governorate",7.6,Giza
+317,Gawharet Al Ahram Hotel,"103, Al Ahram St, Giza, 00202",7.6,Giza
+318,Marvel Stone Hotel,"6 Gerier street, nazlet el semman, Giza, Giza, 12511",7.6,Giza
+319,Cairo Pyramids Hotel,"Alexandria Road, Giza",7.2,Giza
+320,Tut Pyramids View Hotel,"Gamal Abd El-nasir St., Giza, 12557",7.0,Giza
+321,Swiss Inn Hotel Cairo,"7 El Hegaz St. From Gamet El Dewal St., Giza, 12411",6.8,Giza
+322,The Oasis Hotel Pyramids,"Cairo-Alexandria Desert Road, Giza",6.6,Giza
+323,Sphinx Golden Gate Inn,"Building No 9 Sphinx Street, Giza, 12557, Giza Governorate",6.6,Giza
+324,Hotel Amarante Pyramids,"29 Abou Hazem Street, Giza, 112211",6.2,Giza
+325,Holidays Express Hotel,"2 Gamaat El Dowal El Arabia Street, Giza, 11511",6.0,Giza
+326,Pyramids Park Resort Cairo,"Alexandria Desert Road-km 2.5, Giza, 12411",5.8,Giza
+327,Pyramisa Suites Hotel Cairo,"60 Giza Street, Giza, 12311",5.6,Giza
+328,Aracan Pyramids Hotel,"198 El-Haram Street, Cairo, Giza, 12111",5.2,Giza
+329,Magic Golden Pyramids Inn,"El-Salam Street, Nazlet El-Saman, Giza, 12561, Giza Governorate",4.0,Giza
+330,Jewel Dokki Hotel,"11 El-Batal Ahmed Abd El-Aziz, Giza, Giza Governorate",2.0,Giza
+331,Pyramids View Apartments & Rooftop,"69 H Pyramids Gardens, Giza, 12345, Giza Governorate",,Giza
+332,Abou 3Pyramids Plaza Hotel,"Al mansouria, Giza, 12511, Giza Governorate",,Giza
+333,Pyramid stars inn,"21 Elfareda Queen Street, Giza, Giza Governorate",,Giza
+334,Pyramids Gardens Hotel,"Street 9, Giza, Giza Governorate",,Giza
+335,Kanzy Hotel,"9 Abou Bakr El Seddik St., Giza, 12611",,Giza
+336,Pyramids Tower,"21 Zagluol, Giza, 12512, Giza Governorate",,Giza
+337,Nile Island View hotel,Private host,,Giza
+338,the kheops pyramids view hotel and resort pyramids view best view such amazing..,Private host,,Giza
+339,Nile Island View hotel,Private host,,Giza
+340,the kheops pyramids view hotel and resort pyramids view best view such amazing..,Private host,,Giza
+341,Indiana Hotel Cairo,"Adel Hussein Rostom, Ad Doqi A, Ad, Giza, 12611, Giza Governorate",5.6,Giza
+342,Jaz Makadi Gardens,"Madinat Makadi, Safaga Road KM 32, Makadi Bay, Red Sea Governorate",10.0,Hurghada
+343,Aldau Heights apartments,"Hurghada, Hurghada, Red Sea Governorate",10.0,Hurghada
+344,Sherry Hotel Hurghada,"Sherry.St, Hurghada, Red Sea Governorate",10.0,Hurghada
+345,Aqua Blu Resort - Families & Couples Only,"Hurghada - Safaga Road, Hurghada, Red Sea Governorate",10.0,Hurghada
+346,Turtle's Inn,"Abu El Tig Marina, El Gouna, Red Sea",10.0,Hurghada
+347,Serenity home hurghada,"Villa No. 213, Mubarak 6, Hurghada, 84517, Red Sea Governorate",10.0,Hurghada
+348,Lilly Rooms and Studios,"Old Sheraton Road, Hurghada, 12345",10.0,Hurghada
+349,Rixos Premium Magawish Suites and Villas,"Qesm Hurghada, Hurghada, 84517, Red Sea Governorate",10.0,Hurghada
+350,Hurghada Comfort Apartments,"EL Hadaba,Near German Consulate, Hurghada, 84511, read sea",10.0,Hurghada
+351,SeaView Turtles,"Turtles Beach Resort, Ras Gharib Road, Hurghada, 84511, Red Sea Governorate",10.0,Hurghada
+352,Serenity Makadi Beach,"36 Km Makadi Bay, Makadi Bay, Red Sea",9.4,Hurghada
+353,Jaz Makadi Oasis Club,"Madinat Makadi, Makadi Bay, 00178",9.4,Hurghada
+354,Cleopatra Luxury Beach Resort Makadi Bay - Adults Only,"Safaga Road, Makadi Bay, 84515",9.4,Hurghada
+355,Stella Di Mare Beach Resort & Spa - Makadi Bay,"Km 32, Hurghada Safaga Rd, Makadi Bay, 32821",9.4,Hurghada
+356,Jaz Makadina,"Safaga Road, Makadi Resort, Makadi Bay, Red Sea Governorate",9.4,Hurghada
+357,Jaz Makadi Oasis Resort,"Hurghada Safaga Rd, Makadi Bay",9.4,Hurghada
+358,Sky View Suites Hotel,"Hurghada, Red Sea Governorate",9.2,Hurghada
+359,Serenity Fun City,"36 KM, Hurghada Safaga road, Makadi Bay",9.2,Hurghada
+360,Jaz Aquamarine Resort - All Inclusive,"South Sahl Hashish Road, Hurghada, Red Sea Governorate",9.2,Hurghada
+361,"Fort Arabesque Resort, Spa & Villas","32 K Hurghada Safaga Road, Makadi Bay, 155",9.2,Hurghada
+362,Steigenberger Makadi (Adults Only),"Safaga Road, 32 km, Makadi Bay, 178, Red Sea Governorate",9.2,Hurghada
+363,Iberotel Makadi Beach,"Madinat Makadi, Safaga Road, Makadi Bay",9.2,Hurghada
+364,SUNRISE Crystal Bay Resort - Grand Select,"KM 19 Hurghada-Safaga Road, Hurghada, Red Sea Governorate",9.0,Hurghada
+365,Golden Beach Resort,"Km 12, Ahia Road, Hurghada, 84511, Red Sea Governorate",9.0,Hurghada
+366,SUNRISE Royal Makadi Resort,"Makadi Bay, Makadi Bay",9.0,Hurghada
+367,Sharm El Naga Resort and Diving Center,"Soma Bay, Soma Bay, 84511, Red Sea Governorate",9.0,Hurghada
+368,Cook's Club El Gouna - Adults Only,"Downtown, El Gouna, Red Sea",9.0,Hurghada
+369,Sentido Mamlouk Palace Resort,"20 Km Safaga Road, Hurghada",9.0,Hurghada
+370,SUNRISE Garden Beach Resort,"20 Km Safaga Road, Hurghada, Red Sea, Hurghada",9.0,Hurghada
+371,Ali Pasha Hotel El Gouna,"Abu Tig Marina, El Gouna, 84513, Red Sea Governorate",9.0,Hurghada
+372,Beach Albatros Resort - All Inclusive - Families & Couples Only,"Safaga Road, Hurghada, Red Sea",9.0,Hurghada
+373,Jaz Makadi Saraya Palms - All Inclusive,"Madinat Makadi, Safaga Road, Makadi Bay",9.0,Hurghada
+374,Hurghada Marriott Beach Resort,"El Corniche Road, Hurghada, Red Sea Governorate",9.0,Hurghada
+375,Jaz Makadi Star & Spa,"Madinat Makadi, Makadi Bay",9.0,Hurghada
+376,SUNRISE Romance Resort - Adults Only,"The Corniche, Sahl Hasheeh, 84511, Red Sea Governorate",9.0,Hurghada
+377,Jaz Casa Del Mar Beach,"Touristic Promenade, Hurghada, Red Sea Governorate",9.0,Hurghada
+378,Cleopatra Luxury Resort Makadi Bay,"Safaga Road, Makadi Bay, 84515",8.8,Hurghada
+379,Meraki Resort (Adults Only),"El Dahar - El Kornesh Road, Downtown, Hurghada, Red Sea Governorate",8.8,Hurghada
+380,Movenpick Resort Soma Bay,"Km 49 Hurghada-Safaga Road, Soma Bay, 847115",8.8,Hurghada
+381,Prima Life Makadi Hotel,"Makadi Bay, Makadi Bay",8.8,Hurghada
+382,SUNRISE Holidays Resort - Adults Only,"Corniche Road - Touristic Center, Hurghada, Red Sea Governorate",8.8,Hurghada
+383,Dawar El Omda Hotel - Adult Only,"El Kafr, El Gouna, 84513, Red Sea Governorate",8.8,Hurghada
+384,Captain's Inn,"Abu Tig Marina, El Gouna",8.8,Hurghada
+385,Lilly apartments,"El Hadaba El Shamalya, Hurghada, Red Sea",8.8,Hurghada
+386,Solymar Ivory Suites,"El Kawsar District, Hurghada, Red Sea Governorate",8.6,Hurghada
+387,Dana Beach Resort - Families & Couples Only,"Sahl Hashish Road, Hurghada, 84511",8.6,Hurghada
+388,Aqua Vista Resort - Families & Couples Only,"Safaga Road Red Sea, Hurghada, 00000, Red Sea",8.6,Hurghada
+389,Albatros Aqua Park Resort - All Inclusive - Families & Couples Only,"Hurghada -Safaga Road, Hurghada, Red Sea",8.6,Hurghada
+390,Desert Rose Resort,"Safaga Road, Hurghada",8.6,Hurghada
+391,Steigenberger Resort Ras Soma,"KM 55 Hurghada Safaga Road, Soma Bay, 84911, Red Sea Governorate",8.6,Hurghada
+392,Baron Palace Sahl Hasheesh,"Red Sea, Sahl Hasheeh",8.6,Hurghada
+393,The Cascades Golf Resort Spa and Thalasso,"Soma Bay, Soma Bay, 11672, Red Sea",8.6,Hurghada
+394,Bel Air Azur Resort - Adults Only,"El Corniche Road, Hurghada, 111, Red Sea Governorate",8.6,Hurghada
+395,Sheraton Soma Bay Resort,"Soma Bay, Soma Bay",8.6,Hurghada
+396,Jaz Casa Del Mar Resort,"Touristic Promenade, Hurghada, Red Sea Governorate",8.6,Hurghada
+397,Sheraton Miramar Resort El Gouna,"Red Sea, El Gouna",8.6,Hurghada
+398,Movenpick Resort & Spa El Gouna,"El Gouna, El Gouna",8.6,Hurghada
+399,Cordoba Suits,"Bowling Street 271, kawthar district., Hurghada, 84511, Red Sea",8.4,Hurghada
+400,Hilton Hurghada Plaza,"Gabal El Hareem Main Street, Hurghada, Red Sea Governorate",8.4,Hurghada
+401,Jaz Aquaviva - All Inclusive,"Hurghada, Makadi Bay",8.4,Hurghada
+402,SENTIDO Palm Royale,"Safaga Hurghada Highway, Soma Bay",8.4,Hurghada
+403,Continental Hotel Hurghada,"El Fareek Youssef Affifi Street, Hurghada, 84511",8.4,Hurghada
+404,Sultan Bey Hotel,"Kafr el Gouna, El Gouna, 84513, Red Sea Governorate",8.4,Hurghada
+405,Labranda Royal Makadi,"34 KM Hurghada Safaga Road, Makadi Bay, 111",8.2,Hurghada
+406,Jaz Makadi Saraya Resort,"Safaga Road, Makadi Bay",8.2,Hurghada
+407,Caribbean World Resort - All-Inclusive,"Soma Bay Resorts Road, Soma Bay, 1111",8.2,Hurghada
+408,Tropitel Sahl Hasheesh Resort,"Sahl Hasheesh, Hurghada, Sahl Hasheeh",8.2,Hurghada
+409,Premier Le Reve Hotel & Spa Sahl Hashesh -Adults Only,"Piece 33, Sahl Hasheeh, 84521, Red Sea Governorate",8.2,Hurghada
+410,Alf Leila Wa Leila - Families & Couples Only,"Safaga Road, Hurghada, Red Sea Governorate",8.0,Hurghada
+411,Albatros Palace Resort Hurghada - All Inclusive - Families & Couples Only,"Sahl Hashish Road, Hurghada, 00000, Red Sea",8.0,Hurghada
+412,Pool View Apart At British Resort 1532,Hurghada,8.0,Hurghada
+413,VESTA - Azzurra Sahl Hasheesh,"Lot 26, Sahl Hasheeh",8.0,Hurghada
+414,Amarina Abu Soma Resort & Aquapark,"Km. 8 Safaga tourist center, Abu Soma., Safaga, Red Sea",8.0,Hurghada
+415,Steigenberger Golf Resort El Gouna,"El Gouna, Hurghada, El Gouna, 84513, Red Sea Governorate",8.0,Hurghada
+416,Sea Garden Hotel,"Sakala, Opposite to Hurghada Marina, Hurghada, Red Sea Governorate",8.0,Hurghada
+417,Three Corners Sunny Beach Resort,"Hurghada, Hurghada, Red Sea Governorate",8.0,Hurghada
+418,Arabella Azur Resort - All Inclusive,"Arabia Road, Hurghada, Red Sea Governorate",8.0,Hurghada
+419,Masaya Hurghada,"Talateen Street, Hurghada, 84517, Red Sea Governorate",8.0,Hurghada
+420,Labranda Club Makadi,"34 KM, Hurghada Safaga Road, Makadi Bay, 111, Hurghada",7.8,Hurghada
+421,Hurghada Long Beach Resort,"Sahl Hashish Rd 68, Hurghada, 84511, Red Sea Governorate",7.8,Hurghada
+422,Arabia Azur Resort - All Inclusive,"El Corniche Road PO 84511-Post Box 5, Hurghada, Red Sea Governorate",7.8,Hurghada
+423,Lotus Bay Resort,"K8 Hurghada Safaga Road, Safaga",7.8,Hurghada
+424,"Minamark Resort & Spa, for families & couples only","Sheraton Road, Sakkala Area, Hurghada, 84511",7.6,Hurghada
+425,SUNRISE Aqua Joy Resort,"Elmamsha, Hurghada, Hurghada",7.6,Hurghada
+426,Jungle Aqua Park - All Inclusive - Families & Couples Only,"Safaga Road, Hurghada, Red Sea",7.6,Hurghada
+427,Albatros White Beach - Families and couples only,"El Corniche St, Villages Road, Hurghada, 84511, Red Sea Governorate",7.6,Hurghada
+428,Zak Inn,"Sheraton Road, beside CIB Bank, Hurghada, 84511, Red Sea Governorate",7.6,Hurghada
+429,Mercure Hurghada Hotel,"Safaga Road Km 12, Hurghada, Red Sea Governorate",7.4,Hurghada
+430,Sindbad Club,"Village Road, Hurghada, Red Sea Governorate",7.4,Hurghada
+431,Stella Di Mare Gardens Resort & Spa - Makadi Bay,"Km 32, Hurghada Safaga Rd, Makadi Bay",7.4,Hurghada
+432,Hotel Panorama Bungalow Resort El Gouna,"El Gouna Red Sea, El Gouna",7.4,Hurghada
+433,A1 Tiba Rose,"Al-Qiyadat Street, an Arab road, Hurghada, 84722",7.2,Hurghada
+434,Albatros Beach Club - Families & Couples Only,"km 50 Safaga Road, Safaga",7.2,Hurghada
+435,Marlin Inn Azur Resort,"Touristic Road, Hurghada, 11241, Red Sea Governorate",7.2,Hurghada
+436,Sunny Days Palma De Mirette Resort & Spa-Families & Couples only,"El Courniche St, Hurghada, Red Sea Governorate",7.2,Hurghada
+437,Imperial Shams Abu Soma,"Hurghada-Safaga Road 8Km, Safaga",7.2,Hurghada
+438,Elaria,"Old Sheraton Road, Hurghada, 84511, Red Sea",7.0,Hurghada
+439,Royal Beach Serviced Apartments,"El Gouna-Cairo Rd, North El Ahyaa Dist., Hurghada, 84511",7.0,Hurghada
+440,Shams Safaga Resort,"Safaga Road 8Km, Safaga",7.0,Hurghada
+441,Pharaoh Azur Resort,"South Sahl Hashish road-Hurghada red sea, Hurghada",7.0,Hurghada
+442,Sunny Days Mirette Family Resort - Families and couples only,"El Corniche St, Hurghada, Red Sea Governorate",6.8,Hurghada
+443,Pyramisa Sunset Pearl Apartments,"Sahl Hashish Rd, Qesm Hurghada, Sahl Hasheeh, Red Sea Governorate",6.6,Hurghada
+444,King Tut Aqua Park Beach Resort,"Al Wafaa District, Hurghada, Red Sea Governorate",6.4,Hurghada
+445,Labranda Club Paradisio El Gouna,"El Gouna Golf, El Gouna, 84513",6.4,Hurghada
+446,Sphinx Aqua Park Beach Resort - All Inclusive,"Arabia Road, El Wafaa District, Hurghada, Red Sea Governorate",6.2,Hurghada
+447,Grand Blue St Marea Hotel & Aqua Park,"Yussif Afifi Road,, Hurghada, Red Sea Governorate",6.0,Hurghada
+448,ZYA Regina Resort and Aqua Park,"139 Sheraton Rd, Hurghada, Red Sea Governorate",6.0,Hurghada
+449,The Boutique Hotel Hurghada Marina,"Hurghada New Marina, Hurghada, 84517, Red Sea Governorate",6.0,Hurghada
+450,"Pyramisa Beach Resort, Hurghada - Sahl Hasheesh","Sahl Hasheesh Bay, Sahl Hasheeh",6.0,Hurghada
+451,Sand Beach Resort,"Corniche Street, Hurghada",5.8,Hurghada
+452,Mirage Bay Resort & Aqua Park Lilly Land,"Km. 17 Hurghada – Safaga Road, Hurghada, 84511, Red Sea",4.8,Hurghada
+453,Chalets in Cecelia Resort,"84511, Hurghada, Red Sea Governorate",4.0,Hurghada
+454,Bella Rose Nefertiti,"Ahia Road, Hurghada, 84515, Red Sea Governorate",3.4,Hurghada
+455,Cecelia Beach Hotel,"Hurghada - Safaga Road, Hurghada, 84511, Red Sea Governorate",2.0,Hurghada
+456,Nubia Aqua Beach Resort,"North Elahyaa, Hurghada, 84511, Red Sea Governorate",2.0,Hurghada
+457,View Aqua Apartments & suites,"Sahl Hasheesh Road, 307, Hurghada, 84511, Red Sea Governorate",,Hurghada
+458,Cecilia Hurghada,"red sea road behind Senzo Mall, Hurghada, Hurghada, Red Sea",,Hurghada
+459,Outstanding Sea View-Azzurra Apartments,Private host,,Hurghada
+460,Zahabia Resort & Hotel,"Cornish Road, Hurghada, Red Sea Governorate",,Hurghada
+461,Queen Hostel,"Al Dahar Area, Hurghada, Red Sea",,Hurghada
+462,Jaz Makadi Blue,"Madinat Makadi, Safaga Road KM 32, Makadi Bay, Red Sea Governorate",,Hurghada
+463,Seasons Hotel,"General Hospital Street, Hurghada, 84517, Red Sea Governorate",,Hurghada
+464,Hurgada Mirage Beach Chalet & Aqua Park,"17 Hurghada – Safaga Road, Hurghada, 84511, Red Sea Governorate",,Hurghada
+465,Luxor Hotel Hurghada,"El Dahar, General Hospital St., Hurghada, 84511, Red Sea",,Hurghada
+466,Sea Side Three Bedroom Apartment,"Hurghada, Red Sea Governorate",,Hurghada
+467,AquaView apartment Resort and Aqua Park,"Hurghada, Red Sea Governorate",,Hurghada
+468,Elite Suites Hurghada,"Intercontinental District, Hurghada, 84512, Red Sea Governorate",,Hurghada
+469,Apartment At Nubia Aqua Beach Resort,"Hurghada, Red Sea Governorate",,Hurghada
+470,La Rosa Waves Beach - Couple & Families Only,"Sheraton Road, 84517, Hurghada, Red Sea Governorate",,Hurghada
+471,Shams Prestige Abu Soma Resort,"Hurghada - Safaga Road 9km, Abu Soma, Safaga",,Hurghada
+472,Spacious Hill Villa Near Beach for Rent in El Gouna Egypt,"El Gouna, Red Sea Governorate",,Hurghada
+473,Pool View Apart At British Resort 1334,"Hurghada, Red Sea Governorate",,Hurghada
+474,Swiss Inn Resort Hurghada,"Hurghada Bay - Safaga Road, Hurghada, Red Sea Governorate",7.4,Hurghada
+475,Nubia Aqua Beach Resort,"Kilo 13 El Gouna Road-Hurghada;, Hurghada, 1112, Red Sea Governorate",6.0,Hurghada
+476,Tia Heights Makadi Bay Resort,"South Hurghada- Safaga Road- Red Sea, Makadi Bay, Red Sea Governorate",6.0,Hurghada
+477,Cook's Club El Gouna,"El Gouna; Red Sea, El Gouna, Red Sea Governorate",,Hurghada
+478,Swiss Inn Resort Hurghada,"Hurghada Bay - Safaga Road, Hurghada, Red Sea Governorate",7.4,Hurghada
+479,Nubia Aqua Beach Resort,"Kilo 13 El Gouna Road-Hurghada;, Hurghada, 1112, Red Sea Governorate",6.0,Hurghada
+480,Tia Heights Makadi Bay Resort,"South Hurghada- Safaga Road- Red Sea, Makadi Bay, Red Sea Governorate",6.0,Hurghada
+481,Cook's Club El Gouna,"El Gouna; Red Sea, El Gouna, Red Sea Governorate",,Hurghada
+482,Nile View Hotel,"West Bank, Al Jarf, Luxor, 85111",10.0,Luxor
+483,Amenophis Hotel,"West Bank, Luxor, Egypt",10.0,Luxor
+484,Djorff Palace,"Next to Banana Island, Luxor",10.0,Luxor
+485,Senmut Luxory Apartments,"Ramla Street - West Bank, Luxor, Egypt",10.0,Luxor
+486,El Nakhil Hotel,"Gezira El Bairat, Luxor",10.0,Luxor
+487,El Phardous Hotel,"Naga Al Qarna,El Raogah area,West Bank, Luxor, 99999, Luxor Governorate",10.0,Luxor
+488,Embrace Hotel,"West Bank, Luxor",9.4,Luxor
+489,Sofitel Winter Palace Luxor,"Cornish El Nile St, Luxor, 85951",9.4,Luxor
+490,Hilton Luxor Resort & Spa,"New Karnak, Luxor",9.4,Luxor
+491,Cleopatra Hotel Luxor,"El Gezara West Bank, Luxor, 018018",9.4,Luxor
+492,Amon Hotel,"Gezira El Bairat, Luxor, 12345",9.2,Luxor
+493,Steigenberger Resort Achti Luxor,"Khaled Ben Walid St, East Bank, Luxor",9.0,Luxor
+494,Happy Land Luxor,"El Kamar Street from El-madina, Luxor",9.0,Luxor
+495,Jolie Ville Hotel & Spa Kings Island Luxor,"Aswan Road - Kings Island, Luxor",9.0,Luxor
+496,Sonesta St George Hotel Luxor,"Corniche El Nile Street, Luxor",8.8,Luxor
+497,Pavillon Winter Luxor,"Cornish El Nile Street, Luxor, 85951",8.8,Luxor
+498,Steigenberger Nile Palace Luxor Hotel & Convention Center,"Khaled Ben El Walid Street, Luxor, 85111",8.6,Luxor
+499,Al Baeirat hotel,"Luxor, West-Bank, Al Baeirat village, Luxor, Luxor",8.6,Luxor
+500,New Memnon Hotel,"Memnon St, West Bank, Luxor",8.6,Luxor
+501,Aracan Eatabe Luxor Hotel,"Cornish El Nile Street, Luxor, 16",8.4,Luxor
+502,Nile Castle,"Luxor West Bank Albairat, Luxor",8.4,Luxor
+503,Iberotel Luxor,"Khaled Ibn El Waleed Street, Luxor",8.4,Luxor
+504,Nile Valley Hotel & Restaurant,"Gezirat el Bayrat, Luxor, 85511",8.4,Luxor
+505,Julia Flats,Luxor,8.0,Luxor
+506,Thebes Hotel Luxor,"West Bank, Luxor, Luxor",8.0,Luxor
+507,El Mesala Hotel,"Al Ramla, West Bank, Luxor",7.2,Luxor
+508,Pyramisa Hotel Luxor,"Khaled Ibn El Waild Street, Luxor",7.0,Luxor
+509,Memnon Villa,"Luxor, Luxor Governorate",6.0,Luxor
+510,New Memnon Hotel,"Memnon St, West Bank, Luxor",8.6,Luxor
+511,Aracan Eatabe Luxor Hotel,"Cornish El Nile Street, Luxor, 16",8.4,Luxor
+512,Nile Castle,"Luxor West Bank Albairat, Luxor",8.4,Luxor
+513,Iberotel Luxor,"Khaled Ibn El Waleed Street, Luxor",8.4,Luxor
+514,Nile Valley Hotel & Restaurant,"Gezirat el Bayrat, Luxor, 85511",8.4,Luxor
+515,Julia Flats,Luxor,8.0,Luxor
+516,Thebes Hotel Luxor,"West Bank, Luxor, Luxor",8.0,Luxor
+517,El Mesala Hotel,"Al Ramla, West Bank, Luxor",7.2,Luxor
+518,Pyramisa Hotel Luxor,"Khaled Ibn El Waild Street, Luxor",7.0,Luxor
+519,Memnon Villa,"Luxor, Luxor Governorate",6.0,Luxor
+520,Al Salam Camp,"West Bank - Ramla Street, Luxor",6.0,Luxor
+521,Eye House,"Luxor West Bank, El Bairat, El Ramla, Luxor, Luxor Governorate",4.0,Luxor
+522,Mountain View Apartments,"Luxor, Luxor Governorate",,Luxor
+523,Nubian Eco-Village Villa,"West Bank, Luxor",,Luxor
+524,Habu Dome Villa,"Luxor, Luxor Governorate",,Luxor
+525,Blue House,"Ramla Street, Luxor, 85111",,Luxor
+526,Private Villa,"Luxor, Luxor Governorate",,Luxor
+527,Luxor Magic Villa,Luxor,,Luxor
+528,Farida Apartments,"West Bank, Luxor, Egypt",,Luxor
+529,Sunset View Apartments,Luxor,,Luxor
+530,Nile Diana Luxor,"Ramla street,gezirat albairat ,west bank, Luxor, 85111, Luxor",,Luxor
+531,MS King Tut I Nile Cruise,"Cornish El Nile, Luxor, Luxor",,Luxor
+532,MS Movenpick Royal Lotus - Luxor Aswan,"Cornish El Nile, Luxor",,Luxor
+533,Corniche El Nile Flat,"Luxor, Luxor",,Luxor
+534,Al Gezera Apartments,Luxor,,Luxor
+535,Goubli Apartments Luxor,Luxor,,Luxor
+536,Luxor Star Apartments,"Luxor, Egypt",,Luxor
+537,Dream house luxor,Luxor,,Luxor
+538,Nile Dream Apartments House,"Al Bairat - Al Jorf Street, Luxor",,Luxor
+539,Enjoy Luxor,"West Bank, Al Bairat, Luxor, 85111",,Luxor
+540,Karnak Flats,"Karnak Street, East Bank, Luxor, 85111, Luxor Governorate",,Luxor
+541,Arabesque Apartments,"West Bank, Luxor",,Luxor
+542,Home Sweet Home Luxor Apartments,"Luxor, Luxor Governorate",,Luxor
+543,Nile Residence,"Ramla Street, West Bank, Luxor, Luxor",,Luxor
+544,Pyramids Luxor Hotel,"West Bank, Gezira Ramla Nile Street, Luxor, 55555",9.2,Luxor
+545,MS Alexander The Great Nile Cruise,"Kornish Al Nile, East Bank, Luxor, 11811",10.0,Luxor
+546,"The Oberoi Zahra, Luxury Nile Cruiser","Merotel Docking Area, Al Boghdady, Luxor, 12556",10.0,Luxor
+547,MS Tarot Nile Cruise - Saturdays 7 Nights From Luxor,"El Boghdadi, Garranah Dock, Luxor",10.0,Luxor
+548,Scorpion House,"West Bank, Luxor, Egypt",10.0,Luxor
+549,Sataya Resort Marsa Alam,"KM 100 Alqusier Marsa Alam Road, Marsa Alam, 84721, Red Sea Governorate",10.0,Marsa Alam
+550,Iberotel Costa Mares,"KM 79 Qusseir, Marsa Alam",10.0,Marsa Alam
+551,The Oasis Dive Resort,"KM 20 El Quesir Road, Marsa Alam, Red Sea Governorate",9.8,Marsa Alam
+552,Magic Marsa Resort & spa,"17 KM South Marsa ALam Airport, Marsa Alam",9.8,Marsa Alam
+553,Brayka Bay Resort,"17 km north of Marsa Alam town, Marsa Alam",9.4,Marsa Alam
+554,Shams Alam Beach Resort,"South Marsa Alam Road 45km, Marsa Alam",9.2,Marsa Alam
+555,Hilton Marsa Alam Nubian Resort,"KM 97 Quseir Marsa Alam Road, Marsa Alam, Red Sea",8.6,Marsa Alam
+556,The Three Corners Equinox Beach Resort,"Al Nabaa, el Soghayer, Marsa Alam",8.6,Marsa Alam
+557,The Three Corners Fayrouz Plaza Beach Resort,"Road To Port Ghalib Marina, Marsa Alam, 0",8.4,Marsa Alam
+558,Concorde Moreen Beach Resort & Spa,"92 El Quseir, Marsa Alam Road, Marsa Alam, 84721",8.2,Marsa Alam
+559,Royal Marsa & Aqua park,"15K south Marsa Alam airport, Marsa Alam",8.0,Marsa Alam
+560,The Three Corners Happy Life Beach Resort - All Inclusive,"El Quseir, Marsa Alam",8.0,Marsa Alam
+561,Wadi Lahmy Azur Resort,"Wadi Lahmy Marsa Alam Red Sea, Marsa Alam, 1",7.8,Marsa Alam
+562,Port Ghalib Marina Residence,"67 Kms Qusair-, Marsa Alam, 11787",7.8,Marsa Alam
+563,Gemma Resort,"Dorry Bay, Marsa Alam",7.6,Marsa Alam
+564,Bliss Nada Beach Resort,"20 KM South Of Marsa Alam Airport, Marsa Alam",6.0,Marsa Alam
+565,Malikia Resort Abu Dabbab,"30 Km South Of Marsa Alam Airport, Marsa Alam, 84721, Red Sea",2.0,Marsa Alam
+566,Deep Blue inn,"17 km South of Marsa Alam, Marsa Alam, 84721, Red Sea Governorate",,Marsa Alam
+567,Beach Safari Nubian Resort,"Al Quasir - Marsa Allam Rd, Marsa Alam, 84712, Red Sea Governorate",,Marsa Alam
+568,Beach Safari Nubian Resort,"Al Quasir - Marsa Allam Rd, Marsa Alam, 84712, Red Sea Governorate",,Marsa Alam
+569,Marsa Shagra Village,"22km North Marsa Alam City, Marsa Alam",9.4,Marsa Alam
+570,Marina View Residence,"Nasser El Khorafy Street, Marsa Alam, 84721, Red Sea Governorate",8.8,Marsa Alam
+571,Star House,"Nasser Al Khorafi Street, Marsa Alam, 84721",8.0,Marsa Alam
+572,Marsa Nakari Village,"18km South Marsa Alam City, Marsa Alam",8.0,Marsa Alam
+573,Aurora Beach Safari Resort,"14 Km North, Marsa Alam, 84721, Red Sea Governorate",10.0,Marsa Alam
+574,Marsa Shagra Village,"22km North Marsa Alam City, Marsa Alam",9.4,Marsa Alam
+575,Marina View Residence,"Nasser El Khorafy Street, Marsa Alam, 84721, Red Sea Governorate",8.8,Marsa Alam
+576,Star House,"Nasser Al Khorafi Street, Marsa Alam, 84721",8.0,Marsa Alam
+577,Marsa Nakari Village,"18km South Marsa Alam City, Marsa Alam",8.0,Marsa Alam
+578,Aurora Beach Safari Resort,"14 Km North, Marsa Alam, 84721, Red Sea Governorate",10.0,Marsa Alam
+579,Adriatica Hotel,"El Galaa Street, behind Omar Effendi, Marsa Matruh",10.0,Marsa Matrouh
+580,Beau Site Belle Vue Marsa Matruh,"El Corniche Street, Marsa Matruh, Egypt",10.0,Marsa Matrouh
+581,Jaz Almaza Bay,"North Coast - 37 km East Mersa Matruh, Marsa Matruh",8.2,Marsa Matrouh
+582,Carols Beau Rivage Hotel,"El-Obayed Bay, Marsa Matruh",7.6,Marsa Matrouh
+583,El Obayed Apartments Armed Forces,Marsa Matruh,4.0,Marsa Matrouh
+584,Almanara Hotel Marsa Matrouh,"Alam Al Roam, Marsa Matruh, 51511, Matrouh",,Marsa Matrouh
+585,Molkp Towers,"Old port, Marsa Matruh",,Marsa Matrouh
+586,Porto Matrouh Resort,Private host,,Marsa Matrouh
+587,Porto Matrouh Resort,Private host,,Marsa Matrouh
+588,"Jaz Crystal, Almaza Bay","Km 37 East of Mersa Matruh, Marsa Matruh",9.0,Marsa Matrouh
+589,Jaz Oriental Resort,"North Coast, 37 km east of Mersa Matruh, Marsa Matruh, Matrouh Governorate",9.6,Marsa Matrouh
+590,"Jaz Tamerina, Almaza Bay","KM 37 East of Mersa Matruh, North coast, Marsa Matruh, 00015",10.0,Marsa Matrouh
+591,Palma Hotel,"Atef Al-Sadat St., Port Said, 11211, Port Said Governorate",8.0,Port Said
+592,De La Poste,"42 Gomheria Street, Port Said",6.4,Port Said
+593,Jewel Port Said Hotel,"23 July Street, Tarh El Bahr Road, Port Said, 42511, Port Said Governorate",2.0,Port Said
+594,Aracan Hotel,"Port Said, Port Said, Port Said Governorate",,Port Said
+595,Porto Said Tourist Resort,"Port Said Governorate, Port Said Governorate",,Port Said
+596,Albatros Palace Sharm - Families and couples only,"Montazah Ras Nasrani, Sharm El Sheikh, 45214, South Sinai Governorate",10.0,Sharm El Sheikh
+597,Sultan Apartments Hadaba Near Farsha,"Villa 91 C Umm Sid Hadaba, 46119, Sharm El Sheikh, 46119, South Sinai Governorate",10.0,Sharm El Sheikh
+598,Royal Savoy Sharm El Sheikh,"Soho Square, Sharm El Sheikh, South Sinai Governorate",9.6,Sharm El Sheikh
+599,Rehana Sharm Resort - Aqua Park & Spa - Families & Couples Only,"7th Km North Sharm Airport - Nabq Bay, Sharm El Sheikh, 1111, South Sinai Governorate",9.6,Sharm El Sheikh
+600,"Coral Sea Imperial ""Coral Sea Sensatori""","Ras Nosrany, Sharm El Sheikh, South Sinai Governorate",9.4,Sharm El Sheikh
+601,Four Seasons Resort Sharm EL Sheikh,"1 Four Seasons Blvd, Sharm El Sheikh, South Sinai Governorate",9.2,Sharm El Sheikh
+602,Sentido Reef Oasis Senses Resort - All Inclusive,"Marine Sports Club Street, Sharm El Sheikh, South Sinai Governorate",9.2,Sharm El Sheikh
+603,Stella Di Mare Beach Hotel & Spa,"Neama Bay, Sharm El Sheikh, South Sinai Governorate",9.2,Sharm El Sheikh
+604,"Domina Coral Bay Resort, Diving , Spa & Casino","Marsa El Dekhela, Sharm El Sheikh, 46619, South Sinai Governorate",9.2,Sharm El Sheikh
+605,Rixos Premium Seagate Sharm El Sheikh,"Nabq bay, Sharm El Sheikh, South Sinai Governorate",9.2,Sharm El Sheikh
+606,Magic World Sharm - Club by Jaz,"El Salam Road, Nabq Bay, Sharm El Sheikh, South Sinai Governorate",9.0,Sharm El Sheikh
+607,Jaz Belvedere,"El Montaza, Sharm El Sheikh, South Sinai Governorate",8.8,Sharm El Sheikh
+608,Reef Oasis Blue Bay Resort,"El Basha Bay, Sharm El Sheikh, South Sinai Governorate",8.8,Sharm El Sheikh
+609,SUNRISE Arabian Beach Resort,"Sharks Bay, entrance of Convention Cntr, Sharm El Sheikh, South Sinai Governorate",8.8,Sharm El Sheikh
+610,Renaissance Sharm El Sheikh Golden View Beach Resort,"Om El Sid Hill, Sharm El Sheikh, 168, South Sinai Governorate",8.8,Sharm El Sheikh
+611,Rixos Sharm El Sheikh - Adults Friendly,"Nabq Bay Sharm El Sheikh South Sinai, Sharm El Sheikh, South Sinai Governorate",8.8,Sharm El Sheikh
+612,Tropitel Waves Naama Bay,"Halomy Road, Sharm El Sheikh, South Sinai Governorate",8.8,Sharm El Sheikh
+613,Aqua Blu Resort Sharm El Sheik - Families & Couples Only,"Om El Seid 22, Sharm El Sheikh, 0000, South Sinai Governorate",8.8,Sharm El Sheikh
+614,"Domina Coral Bay Resort, Diving , Spa & Casino","Marsa El Dekhela, Sharm El Sheikh, 46619, South Sinai Governorate",9.2,Sharm El Sheikh
+615,Rixos Premium Seagate Sharm El Sheikh,"Nabq bay, Sharm El Sheikh, South Sinai Governorate",9.2,Sharm El Sheikh
+616,Magic World Sharm - Club by Jaz,"El Salam Road, Nabq Bay, Sharm El Sheikh, South Sinai Governorate",9.0,Sharm El Sheikh
+617,Jaz Belvedere,"El Montaza, Sharm El Sheikh, South Sinai Governorate",8.8,Sharm El Sheikh
+618,Reef Oasis Blue Bay Resort,"El Basha Bay, Sharm El Sheikh, South Sinai Governorate",8.8,Sharm El Sheikh
+619,SUNRISE Arabian Beach Resort,"Sharks Bay, entrance of Convention Cntr, Sharm El Sheikh, South Sinai Governorate",8.8,Sharm El Sheikh
+620,Renaissance Sharm El Sheikh Golden View Beach Resort,"Om El Sid Hill, Sharm El Sheikh, 168, South Sinai Governorate",8.8,Sharm El Sheikh
+621,Rixos Sharm El Sheikh - Adults Friendly,"Nabq Bay Sharm El Sheikh South Sinai, Sharm El Sheikh, South Sinai Governorate",8.8,Sharm El Sheikh
+622,Tropitel Waves Naama Bay,"Halomy Road, Sharm El Sheikh, South Sinai Governorate",8.8,Sharm El Sheikh
+623,Aqua Blu Resort Sharm El Sheik - Families & Couples Only,"Om El Seid 22, Sharm El Sheikh, 0000, South Sinai Governorate",8.8,Sharm El Sheikh
+624,Royal Albatros Moderna - All Inclusive - Families & Couples Only,"Nabq Bay, Sharm El Sheikh, 0000, South Sinai Governorate",8.8,Sharm El Sheikh
+625,Jaz Fanara Resort,"Ras Om El-Seid Cliff, Sharm El Sheikh, South Sinai Governorate",8.6,Sharm El Sheikh
+626,SUNRISE Montemare Resort Grand Select,"El Fanar Street, Sharm El Sheikh, 46619, South Sinai Governorate",8.6,Sharm El Sheikh
+627,Naama Inn,"King Abdullah Street, Naama Bay, Sharm El Sheikh, South Sinai Governorate",8.6,Sharm El Sheikh
+628,SUNRISE Diamond Beach Resort,"Salah Taher St, Om El Sid Hill, Sharm El Sheikh, South Sinai Governorate",8.6,Sharm El Sheikh
+629,Savoy Sharm,"Soho Square, Sharm El Sheikh, South Sinai Governorate",8.6,Sharm El Sheikh
+630,Steigenberger Alcazar,"Nabq Bay, Sharm El Sheikh, South Sinai Governorate",8.6,Sharm El Sheikh
+631,SUNRISE Remal Resort,"El Montaza, Ras Nasrani, Sharm El Sheikh, Sharm El Sheikh, 46628, South Sinai",8.6,Sharm El Sheikh
+632,Cleopatra Luxury Resort Sharm El Sheikh,"Nabq Bay, Sharm El Sheikh, 3150, South Sinai Governorate",8.4,Sharm El Sheikh
+633,Iberotel Palace - Adults Only,"Sharm el Maya Bay, Sharm El Sheikh, South Sinai Governorate",8.4,Sharm El Sheikh
+634,Coral sea Holiday Resort & Aqua park,"El Salam Road, Nabq Bay, Sharm El Sheikh, South Sinai Governorate",8.4,Sharm El Sheikh
+635,Charmillion Sea Life Resort,"2 Nabq Bay, Sharm El Sheikh, 11371, South Sinai Governorate",8.4,Sharm El Sheikh
+636,Charmillion Club Aqua Park,"Nabq Bay, Sharm El Sheikh, 46619, South Sinai Governorate",8.4,Sharm El Sheikh
+637,Concorde El Salam Hotel Sharm El Sheikh,"White Knight Beach, Sharm El Sheikh, South Sinai Governorate",8.4,Sharm El Sheikh
+638,Baron Palms Resort Sharm El Sheikh - Adults Only,"Ras Nasrani, South Sinai, Sharm El Sheikh, South Sinai Governorate",8.4,Sharm El Sheikh
+639,Reef Oasis Beach Resort,"Marine Sports Club Street, Sharm El Sheikh, South Sinai Governorate",8.2,Sharm El Sheikh
+640,Jaz Mirabel Resort,"Nabaq Bay, Sharm El Sheikh, South Sinai Governorate",8.2,Sharm El Sheikh
+641,Oriental Rivoli Hotel & SPA,"Namaa Bay, Sharm El Sheikh, 0375, South Sinai Governorate",8.2,Sharm El Sheikh
+642,Baron Resort Sharm El Sheikh,"Ras Nosrani Bay, Sharm El Sheikh, South Sinai Governorate",8.2,Sharm El Sheikh
+643,Solymar Naama Bay,"Naama Bay, Sharm El Sheikh, South Sinai Governorate",8.0,Sharm El Sheikh
+644,Jaz Sharks Bay,"2 B Entrance of Sharks Bay, Sharm El Sheikh, 00328, South Sinai Governorate",8.0,Sharm El Sheikh
+645,Charmillion Gardens Aquapark,"3 Nabq Bay, Sharm El Sheikh, 00000, South Sinai Governorate",8.0,Sharm El Sheikh
+646,Xperience St. George Homestay,"Um El Seid Hill, Sharm El Sheikh, 260, South Sinai Governorate",8.0,Sharm El Sheikh
+647,Lido Sharm Hotel Naama Bay,"Naama Bay, Sharm El Sheikh, South Sinai Governorate",7.8,Sharm El Sheikh
+648,Dive Inn Resort,"34, Al Ferouseya, Sharm El Sheikh, 46619, South Sinai Governorate",7.8,Sharm El Sheikh
+649,Dreams Beach Sharm el Sheikh,"33 El Fanar Street, Om El Seid Cliff, Sharm El Sheikh, South Sinai Governorate",7.8,Sharm El Sheikh
+650,Hilton Sharks Bay Resort,"Ras Nusrani Sharks Bay, Sharm El Sheikh, X, South Sinai Governorate",7.8,Sharm El Sheikh
+651,Coral Sea Aqua Club,"Nabq Bay, Sharm El Sheikh",7.8,Sharm El Sheikh
+652,Naama Blue hotel,"King Abdullah Street, Sharm El Sheikh, 11234, South Sinai Governorate",7.6,Sharm El Sheikh
+653,Jaz Fanara Residence - All Inclusive,"Ras Om El-Seid Cliff, Sharm El Sheikh, 00176, South Sinai Governorate",7.6,Sharm El Sheikh
+654,Novotel Sharm El-Sheikh,"Naama Bay, Sharm El Sheikh, 32, South Sinai Governorate",7.6,Sharm El Sheikh
+655,Park Regency Sharm El Sheikh Resort (Formerly Hyatt Regency),"The Gardens Bay, Sharm El Sheikh, South Sinai Governorate",7.6,Sharm El Sheikh
+656,Xperience Golden Sandy Beach,"Dusti Road, Ras Umm Sid, Sharm El Sheikh, 99996, South Sinai Governorate",7.6,Sharm El Sheikh
+657,Movenpick Resort Sharm El Sheik Naama Bay,"Naama Bay Sharm El Sheikh, Sharm El Sheikh, 46619-B106, South Sinai Governorate",7.6,Sharm El Sheikh
+658,Charmillion Club Resort,"Nabq Bay, Sharm El Sheikh, 46619, South Sinai Governorate",7.4,Sharm El Sheikh
+659,Safir Sharm Waterfalls Resort,"Ras Um El Sid Cliff South Sinai, Sharm El Sheikh, South Sinai Governorate",7.4,Sharm El Sheikh
+660,Sea Beach Aqua Park Resort Managed By Blue Resorts,"Sharm El Sheikh - Dahab Rd, Sharm El Sheikh, 46619, South Sinai Governorate",7.4,Sharm El Sheikh
+661,Xperience Sea Breeze Resort,"Sharks Bay Area, Sharm El Sheikh, 4, South Sinai Governorate",7.4,Sharm El Sheikh
+662,Tropitel Naama Bay Hotel,"Naama Bay, Sharm El Sheikh, South Sinai Governorate",7.4,Sharm El Sheikh
+663,Jolie Ville Golf & Resort,"Um Marikha Bay, Sharm El Sheikh, 46619, South Sinai Governorate",7.4,Sharm El Sheikh
+664,Barceló Tiran Sharm,"Nabq Bay, Sharm El Sheikh, 00149, South Sinai Governorate",7.4,Sharm El Sheikh
+665,Sharm Grand Plaza Resort,"Nabq Bay, 8 Km from Sharm Airport, Sharm El Sheikh, South Sinai Governorate",7.2,Sharm El Sheikh
+666,Maritim Jolie Ville Resort & Casino Sharm El Sheikh,"El Salam road Namaa Bay, Sharm El Sheikh, South Sinai Governorate",7.2,Sharm El Sheikh
+667,Xperience Kiroseiz Premier,"Salam Road, Peace Road, Naama Bay, Sharm El Sheikh, 11221, South Sinai Governorate",7.0,Sharm El Sheikh
+668,Naama Bay Promenade Beach Resort,"El Salam Road, Naama Bay, Sharm El Sheikh, 46691, South Sinai Governorate",7.0,Sharm El Sheikh
+669,Amphoras Beach,"Om El Seid Cliff, Sharm El Sheikh, 46619, South Sinai Governorate",7.0,Sharm El Sheikh
+670,Fayrouz Resort,"Peace Road, Sharm El Sheikh, South Sinai Governorate",7.0,Sharm El Sheikh
+671,Marina Sharm Hotel,"Naama Bay, Sharm El Sheikh, South Sinai Governorate",6.8,Sharm El Sheikh
+672,"Sheraton Sharm Hotel, Resort, Villas & Spa","Al Pasha Coast, Sharm El Sheikh, South Sinai Governorate",6.8,Sharm El Sheikh
+673,Rehana Royal Beach Resort - Aquapark & Spa - Families & Couples Only,"7th Km North Sharm Airport - Nabq Bay, Sharm El Sheikh, 46619, South Sinai Governorate",6.8,Sharm El Sheikh
+674,Amphoras Aqua,"Um El Sied Cliff, Sharm El Sheikh, 46619, South Sinai Governorate",6.8,Sharm El Sheikh
+675,Albatros Aqua Park Sharm El Shiekh - Families & Couples Only,"Hadaba Umm El Sid Cliff, Sharm El Sheikh, 46628, South Sinai Governorate",6.8,Sharm El Sheikh
+676,"DELTA RENT , Sharm El Sheikh, South Sinai, Egypt","Intersection Of El Tower Rd, Sharm El Sheikh, 44146, South Sinai Governorate",6.6,Sharm El Sheikh
+677,Tivoli Hotel Aqua Park,"Ras Om El Sid, City Council St., Sharm El Sheikh, 5331, South Sinai Governorate",6.6,Sharm El Sheikh
+678,Sharm Dreams Resort,"210 Naama Bay, Sharm El Sheikh, South Sinai Governorate",6.4,Sharm El Sheikh
+679,Pyramisa Sharm El Sheikh Resort,"Sharks Bay Cliff South Sinai, Sharm El Sheikh, South Sinai Governorate",6.2,Sharm El Sheikh
+680,Royal Monte Carlo Sharm El Sheikh - Adults only,"Om El Seed Peninsula, Sharm El Sheikh, South Sinai Governorate",6.0,Sharm El Sheikh
+681,Monte Carlo Sharm Resort & Spa,"Om El Seed, Sharm El Sheikh, South Sinai Governorate",6.0,Sharm El Sheikh
+682,Sharming Inn Hotel,"Hadabet Om El Seed, Sharm El Sheikh, South Sinai Governorate",5.8,Sharm El Sheikh
+683,Coral Beach Resort Tiran,"Shark's Bay, Sharm El Sheikh, South Sinai Governorate",5.8,Sharm El Sheikh
+684,Il mercato hotel sharm & Spa,"Hadabet Om El Seed, Sharm El Sheikh, South Sinai Governorate",5.6,Sharm El Sheikh
+685,Desert View Sharm Hotel,"El Motelat Street, Sharm El Sheikh, South Sinai Governorate",5.4,Sharm El Sheikh
+686,Amar Sina Egyptian Village,"Al Monelat St., Sharm El Sheikh, 46619, South Sinai Governorate",5.4,Sharm El Sheikh
+687,Logaina Sharm Resort,"Sharks Bay, Sharm El Sheikh, 0000, South Sinai Governorate",5.0,Sharm El Sheikh
+688,Sharm Bride Resort Aqua & SPA,"Peace Road - Nabq Bay, Sharm El Sheikh, 46619, South Sinai",4.6,Sharm El Sheikh
+689,Nubian Village,"Dahab Rd, Sharm El Sheikh, South Sinai Governorate",4.0,Sharm El Sheikh
+690,Savana Club Resort & Aqua Park,"Sharks Bay, Airport Road Savanna Club, Sharm El Sheikh, South Sinai Governorate",,Sharm El Sheikh
+691,Viking Resort,"Naama Bay, Criss Village, Sharm El Sheikh, 46628, South Sinai Governorate",,Sharm El Sheikh
+692,SUNRISE Remal Beach Resort,"El Montaza, Ras Nasrani, Sharm El Sheikh, Sharm El Sheikh, 46628, South Sinai",,Sharm El Sheikh
+693,Amazing 4 Bedroom Villa,"Sharm El Sheikh, South Sinai Governorate",,Sharm El Sheikh
+694,Nubian Island,"Dahab Rd, Sharm El Sheikh, South Sinai Governorate",,Sharm El Sheikh
+695,Sultan Gardens Resort,"Shark's Bay, Sharm El Sheikh, 46199, South Sinai Governorate",9.0,Sharm El Sheikh
+696,Sierra Sharm El Sheikh - All-inclusive,"White Knight Beach, Sharm El Sheikh, 00000, South Sinai Governorate",9.0,Sharm El Sheikh
+697,TUI Magic Life Sharm El Sheikh,"Nabque Bay, Qesm at Tour, Sharm El Sheikh, 70770, South Sinai Governorate",9.2,Sharm El Sheikh
+698,Coral Sea Water World Resort - All inclusive,"Qesm Sharm Ash Sheikh, Sharm El Sheikh, 99999, South Sinai Governorate",8.2,Sharm El Sheikh
+699,Xperience Kiroseiz Parkland Resort,"Peace Road, Naama Bay, Sharm El Sheikh, 99996, South Sinai Governorate",8.2,Sharm El Sheikh
+700,Club Reef Resort,"Tower Bay, Sharm El Sheikh, South Sinai Governorate",8.6,Sharm El Sheikh
+701,Dreams Vacation Sharm El Sheikh,"23 Om El Seid Cliff, Sharm El Sheikh, 00000, South Sinai Governorate",9.4,Sharm El Sheikh
+702,Jolie Ville Royal Peninsula Hotel & Resort Sharm El Sheikh,"Peace Road at Um Marikha Bay, Sharm El Sheikh, South Sinai Governorate",8.6,Sharm El Sheikh
+703,Nice Apartment in Sharm,"Delta Sharm Resort, Sharm El Sheikh, South Sinai Governorate",8.0,Sharm El Sheikh
+704,Ocean Club Sharm El Sheikh,"Sharm El Sheikh El Hadaba City Council, Sharm El Sheikh",10.0,Sharm El Sheikh
+705,Royal Paradise Beach Resort,"Al fanar Street, Om el Sid Hill, Sharm El Sheikh, South Sinai Governorate",10.0,Sharm El Sheikh
+706,Nabq Camp,"Peace Road, Nabq Bay, Sharm El Sheikh, 46628, South Sinai Governorate",10.0,Sharm El Sheikh
+707,One Bedroom Apart Deep Purple by Pool,"Delta Sharm, building 47 flat 106, Sharm El Sheikh",8.0,Sharm El Sheikh
+708,Old Vic Sharm Resort,"Plateau Umm Sid, Motalat Street, Sharm El Sheikh, 46628, South Sinai Governorate",8.0,Sharm El Sheikh
+709,Sharks Bay Umbi Diving Village,"Sharks Bay, Sharm El Sheikh, South Sinai Governorate",8.0,Sharm El Sheikh
+710,Sultan Gardens Resort,"Shark's Bay, Sharm El Sheikh, 46199, South Sinai Governorate",9.0,Sharm El Sheikh
